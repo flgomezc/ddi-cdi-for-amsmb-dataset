@@ -13,703 +13,2237 @@
   ],
   "@graph": [
     {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-09",
-      "dcterms:abstract": {
-        "@value": "Bonanat, abat de Santes Creus, i el seu convent permuten amb Galceran de Nagera, ciutadà de Barcelona, un cens de tres quartans d’oli a la mesura de Barcelona i tot el domini i dret que perceben sobre dues peces de terra plantades de vinya, amb diversos arbres, que el mateix Galceran té pel predit monestir a la parròquia de Sant Andreu de Palomar, al lloc dit Ramonet; per un cens d’un morabatí altres drets que el dit Galceran rep sobre Borràs Riera per una casa i un hort situats en el suburbi de Barcelona, a l’horta dita de Queralt.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-12",
-      "dcterms:abstract": {
-        "@value": "Pere Jancet, burgès de Perpinyà, ven a Isabel, muller de Pere de Terrassa, mercader i ciutadà de Barcelona, un cens de 27 sous barceloneos de tern que rep sobre una peça de terra que els hereus i successors del difunt Andreu Gironès tenen i posseeixen per ell a la parròquia de Sant Genís dels Agudells, al lloc dit Casals, i que ell alhora té sota domini i alou de Pere Serra, ciutadà de Barcelona. El preu de venda és de 13 lliures i 15 sous de moneda barcelonesa.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-17",
-      "dcterms:abstract": {
-        "@value": "Ramon de Barberà, cavaller i castlà de Font-rubí, infeuda Bertran de Canyelles, fill del difunt Bertran de Canyelles, donzell d'Oriola, com a successor de Berenguer de Canyelles, donzell, el feu de Font-rubí que el dit Berenguer detenia pel mateix Ramon i pel rei.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-18",
-      "dcterms:abstract": {
-        "@value": "Després de ser llegida davant la universitat de Font-rubí i els seus prohoms la sentència arbitral que adjudica el castell de Font-rubí i el seu terme a Huguet Fivaller, ciutadà de Barcelona, hereu universal del seu difunt nebot Pere Joan Febrer, domiciliat a Vilafranca del Penedès, la dita universitat i els seus representants presten homenatge i sagrament de fidelitat al dit Huguet en tant que nou senyor seu.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-22",
-      "dcterms:abstract": {
-        "@value": "Guerau de Cervelló afranqueix els homes del terme del castell de Cervelló de tota quístia, servei, tragí i obra, així com de qualsevol mal ús, i confirma les llibertats donades en el passat tant per ell com pel seu difunt pare.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-24",
-      "dcterms:abstract": {
-        "@value": "Arnau Ballester, ciutadà de Barcelona i senyor del castell de Cervelló i de Sant Vicenç de Cervelló, atès que Jaume de Rubí, àlies de Santjust, donzell, ha venut la una casa amb fàbrega situada a la dita vila de Sant Vicenç, que tenia infeudada pel dit Arnau, a Pere d’Esplugues, també donzell, infeuda la predita casa al dit Pere, qui, de retruc, efectua homenatge i sagrament de fidelitat.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-29",
-      "dcterms:abstract": {
-        "@value": "Pere Sacosta, ciutadà de Barcelona, procurador del castell de Cervelló, en nom del senyor de dit castell, rep el jurament de fidelitat de Jaume de Santjust, com a tinent de la fàbrega de dit castell.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-41",
-      "dcterms:abstract": {
-        "@value": "Berenguer Manera, de Sant Vicenç de Cervelló, ven a Tecla, vídua de Pere Sacalm, doctor en lleis, i tutora testamentària de Guillemó Sacalm, ciutadà de Barcelona, fill i hereu del dit Pere, una peça de terra, en part muntanyosa i boscosa i en part erma, situada al terme de Cervelló, en el Bosc del Comte. El preu de venda és de 22 lliures de moneda barcelonesa de tern. Inclou instrument d'àpoca.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-43",
-      "dcterms:abstract": {
-        "@value": "Jaume Cogullada, de la parròquia de Sant Climent, ven a Bartomeu Esbert, de Santa Coloma de Cervelló, el seu mas dit Vilardell, amb totes les seves possessions, situat a la dita parròquia de Santa Coloma, que té per Ginebra, vídua de Jaume Bertran, donzell, i muller en primeres núpcies del difunt Joan Sacalm, senyor de la casa de Sacort. També li ven una gran peça de terra dita Mas Cavall, que és de la gleva del dit mas Vilardell, que és de les tinences de la dita casa de Sacort i que té per la mateixa Ginebra.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F1-45",
-      "dcterms:abstract": {
-        "@value": "Ginebra, vídua de Jaume Bertran, donzell, i muller en primeres núpcies de Joan Sacalm, difunt, donzell i senyor de la casa de Sacort, a Santa Coloma de Cervelló, confirma a Jaume Cogullada, de la parròquia de Sant Climent, l’establiment del mas dit Vilardell, situat la dita parròquia de Santa Coloma, i la peça de terra dita Mas Cavall, també al mateix lloc. Rep per la confirmació 9 sous barcelonesos de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-04",
-      "dcterms:abstract": {
-        "@value": "Jaume de Tagamanent, cavaller domiciliat a Granollers, com a tinent els béns dotals de la seva difunta esposa Isabel, estableix Margarida, muller de Pere Coronimes, de la mateixa vila, una peça de terra situada a l’horta sobirana de la dita vila, per un cens d’una quartera de forment cada festa dels Sants Pere i Feliu d’agost. Rep, a més a més, una entrada de 9 sous barcelonesos.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-06",
-      "dcterms:abstract": {
-        "@value": "Nicolau Rodoner, ciutadà de Barcelona i habitant de Granollers, ven a Jaume Coromina, fuster, ciutadà de la dita ciutat i habitant de la mateixa vila, una peça de terra situada a la dita vila, al lloc dit la Parellada d’en Cerçol, que es té per Pere Rovirà, de la mateixa vila, a cens de 5 sous i 1 diner de moneda barcelonesa de tern, i sota domini i alou d’Isabel de Tagamanent. El preu de venda és de 22 sous de la dita moneda.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-15",
-      "dcterms:abstract": {
-        "@value": "Pere Ares, de la vila de Granollers, estableix a Julià d’Altafulla, de la mateixa vila, una partida del puig que té al Coll de la Creu de la Vall d’Ariolf, a la parròquia de dita vila, que es té per Arnau de Palou, ciutadà de Barcelona, a cens d’una quartera de fabes anuals, i sota domini i alou de la prepositura de Palau del monestir de Sant Cugat del Vallès. A canvi d’un cens de 5 sous barcelonesos de tern anuals per Nadal. Rep, a més a més, una entrada de 10 sous de la mateixa moneda.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-19",
-      "dcterms:abstract": {
-        "@value": "Francesca, vídua d'Antoni Colomer, teixidor de draps de borres, i la seva filla Margarita, muller de Pere Coromina, teixidor de draps de lli i de borres, de Granollers, estableixen a Antoni Riba, hospitaler de la dita vila, una part de peça de terra, amb aigua per regar, situada la parròquia de la dita vila, sota domini de la difunta Isabel, muller de Jaume de Tagamanent, cavaller, i a cens de mitja quartera de forment. El cens que pagarà el nou establert serà d'11 sous barcelonesos de tern, amb una entrada de 22 sous de la mateixa moneda.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-20",
-      "dcterms:abstract": {
-        "@value": "Agnès, muller en segones núpcies de Pau Vilardell, ciutadà de Barcelona, amb el consell i voluntat del seu marit, i Francesc Vilar, fill de la dita Agnès i de Pere Vilar, el seu primer marit, de Granollers, efectuen donació entre vius a favor de Margarita, muller de Berenguer Lledó, cosina d’Agnès, i al mateix Berenguer d’una peça de terra situada a la dita vila, al lloc dit Feixa d’en Jugador, que és sota alou i domini d’Arnau de Palou.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-21",
-      "dcterms:abstract": {
-        "@value": "Fra Berenguer de Rocamora, cambrer del monestir de Ripoll, reestableix Bernat de Palou, jurisperit i ciutadà de Barcelona, en un camp del mas de ses Someres, situat a la parròquia de Granollers, per un nou cens de 4 sous de moneda barcelonesa de tern anuals. Pel reestabliment rep una entrada de 5 sous de la mateixa moneda. Carta partida per ABC.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F3-16",
-      "dcterms:abstract": {
-        "@value": "Francesc Babau, cavaller domiciliat a Vilafranca del Penedès, com a procurador d’Andreu Babau, oriünd de dita vila, ara domiciliat a Licata, en el regne de Sicília, ven a Jeroni Babau una peça de terra situada en el territori de la dita vila, en la partida dita les Clotes o la Costa. El preu de venda és de 24 lliures barceloneses. Inclou instrument d’àpoca.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F3-28",
-      "dcterms:abstract": {
-        "@value": "Pere Sestrada, ciutadà de Barcelona, fill del difunt Berenguer Sestrada, ciutadà de la dita ciutat, i de Constança, reconeix a la seva futura muller Elionor, donzella, filla de Joan Llull, major de dies, ciutadà de la mateixa ciutat, i de la difunta Elionor, que ha rebut un dot de 30.000 sous de moneda barcelonesa de tern, i li’n fa escreix de 15.000 sous més. S’hi afegeixen els documents de compromís de desposori i d’àpoca del predit dot.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F3-37",
-      "dcterms:abstract": {
-        "@value": "Sibil·la, filla dels difunts Aimeric Sacirera i Elisenda, amb el consell i voluntat del seu avui i tutor, Guillem Sacirera, i d’altres persones, es declara muller de Pere de Vilalta i aporta els seus feus de l’Espluga de Francolí, la Manresana, Vilalba i Palou, i un alou de Solivella, en la comunitat de llurs béns mentre visquin.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F3-39",
-      "dcterms:abstract": {
-        "@value": "Trasllat d’un capítol dels capítols matrimonials entre Pere Falcó, doctor en decrets i assessor de la Governació de Catalunya, ciutadà de Barcelona, i Serena, filla de Ramon Batlle, lloctinent de protonotari del rei i ciutadà de la mateixa ciutat. Ramon Batlle fa donació entre vius a la seva filla, en qualitat de dot, d’un censal mort de 50 lliures de pensió anual i preu de 916 lliures, 9 sous i 6 diners, així com i 400 lliures en metàl·lic ingressades a la taula de Barcelona, en mans del dit Falcó. A més a més, institueix la reserva de les pensions del censal mentre visqui i estableix l’ordre successori del dit dot.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F4-05",
-      "dcterms:abstract": {
-        "@value": "Elisenda, vídua de Bernat Salbà, efectua donació entre vius a favor del seu fill Guillem Salbà de tot el feu que té per Bertran de Castellet al terme de Castellet i a la quadra de l’Arboç, amb certes reserves.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F2-09",
-      "dcterms:abstract": {
-        "@value": "Pere Serra, ciutadà de Barcelona resident al carrer de Montcada, la seva muller Aldonsa, llurs fills Pere Benet Serra i Antoni Benet Serra i Nicolau Serra, ciutadà de la dita ciutat, germà del dit Pere, per tal de lluir certs censals morts i subvenir a vàries necessitats, venen als administradors de l’Hospital de la Santa Creu de Barcelona un censal mort de 240 sous barcelonesos de pensió anual. El preu de venda és de 264 lliures barceloneses. Inclou instrument d’àpoca.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-16",
-      "dcterms:abstract": {
-        "@value": "Elisenda, filla i hereva universal del difunt Guillem de Bell-lloc, cavaller, assigna al seu marit Guillem de Tagamanent un dot consistent en el delme de Llerona que té per Guilleuma de Montcada, així com tots els drets que té sobre el castell de Bell-lloc, els drets i domini sobre Corró d'Avall que Simó de Bell-lloc té per ella, així com el domini i dret del que disposa a Samalús, que els hereus de Galceran de Corró tenen per ella.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-25",
-      "dcterms:abstract": {
-        "@value": "Davant del veguer de Barcelona, Arnau Guillem de Cervelló, senyor del castell de Vilademàger, i Jaume d’Avinyó, donzell domiciliat a Barcelona, procurador dels homes del castell de Miralles, presten jurament i homenatge de boca i mans de guardar ostatge a Vilafranca del Penedès en cas que s’incomplíssin les clàusules de la venda que el dit Arnau Guillem ha fet a Elionor, muller de Lluc Sabater, àlies d’Avinyó, donzell del mas de Pontons, d’un censal mort de 100 sous barcelonesos de pensió anual.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-32",
-      "dcterms:abstract": {
-        "@value": "Lluc Sabater, àlies d’Avinyó, donzell, i la seva esposa Elionor, senyors del mas o casa de Pontons, situada a la parròquia de Pontons, efectuen donació entre vius a llur fill Jaume Sabater, àlies d’Avinyó, de tota la dita casa de Pontons, amb totes les seves possessions, sota certs pactes, retencions i condicions.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-39",
-      "dcterms:abstract": {
-        "@value": "Marc del Llor, cavaller i senyor de la casa del Llor, situada a la parròquia de Sant Boi de Llobregat, estableix en emfiteusi a Bernat Puig, boter de la mateixa vila, una peça de terra erma situada a la Coma del Llor, a la mateixa parròquia i vola, per un cens de 2 sous barcelonesos de tern i el delme dels fruits, és a dir, l'onzena part. Rep, a més a més, una entrada de 22 sous de la mateixa moneda.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-69",
-      "dcterms:abstract": {
-        "@value": "Jaume Descoll, sabater i ciutadà de Barcelona, ven a Antic de Segarra, sabater i ciutadà de la mateixa ciutat, una peça de terra amb les vinyes que hi ha plantades i arbres de diverses espècies, situada a la parròquia de Sant Martí de Provençals, al camp de Getó, que és sota domini i alou del bisbe de Barcelona. El preu de venda és de 45 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-71",
-      "dcterms:abstract": {
-        "@value": "Constança, vídua i hereva universal de Bernat Oliver, pagès i ciutadà de Barcelona, ven a Pere Montagut, fuster i ciutadà de la dita ciutat, una peça de terra amb tires de vinya i arbres de diverses espècies situada al territori de Barcelona, al lloc dit el Prat, a prop del mas que fou d'en Llimona, i que té pels hereus i successors del difunt Joan Gener, donzell, que alhora la tenen sota domini i alou del bisbe de Barcelona. El preu de venda és de 5 lliures i 10 sous de moneda barcelonesa. Inclou instrument d'àpoca. ",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-72",
-      "dcterms:abstract": {
-        "@value": "Joana, vídua de Joan Munt, mercader i ciutadà de Barcelona, i el seu fill Jaume Munt venen  a Jordi Merti, paraire de draps de llana i ciutadà de la dita ciutat, una peça de terra campa que abans estava dividida en dues peces, amb les tires de vinya i arbres de diverses espècies, que tenen al territori de Barcelona, a la parròquia de Sant Martí de Provençals, al lloc dit Taulat Jussà, dins les tinences del mas de Jaume de Llimona, abans dit mas d'en Marina, i que té pels hereus i successors del difunt Joan Gener, donzell domiciliat a la mateixa ciutat, i sota i alou del bisbe de Barcelona. El preu de venda és d'11 florins d'or d'Aragó. ",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C3-F6-04",
-      "dcterms:abstract": {
-        "@value": "Pere Regassol, canonge de la Seu de Barcelona, i Joan de Junyent, major de dies, mercader i ciutadà de la dita ciutat, tutors testamentaris de Caterina, pubilla, filla i hereva universal del difunt Jaume Copí, brodador d’or i de seda de la mateixa ciutat, reconeixen rebre de Toda d’Erill, vídua de Francesc d’Erill, cavaller, que han rebut d’ella 752 lliues, 15 sous i 6 diners de moneda barcelonesa de tern: 700 lliures com a redempció d’un censal mort de 1.000 sous de pensió anual que el dit matrimoni i Ramon Badia, armer i ciutadà de Barcelona, havien venut al dit Copí el 21 de juliol de 1423; i  52 lliures, 15 sous i 6 diners per una pensió deguda d’aquest censal i la prorrata de vint dies. L’absolen dels deutes i cancel·len el dit censal.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-55-24",
-      "dcterms:abstract": {
-        "@value": "Donació. Constança, vídua de Pere de Cànoves, argenter i ciutadà de Barcelona, per tal de regraciar-li els molts serveis que li ha prestat i continua prestant, efectua donació entre vius a favor d'Antoni Baruta, brodador d'or i ciutadà de la mateixa ciutat, d'unes cases, amb envans i taules, que té sota domini del presbiterat de l'altar de Santa Maria de l'església de Sant Jaume, situades en el carrer de Ramon Ricard, a prop del carrer de Mar. Una nota en la part inferior del pergamí ens indica que, posteriorment, Antoni Baruta va donar testamentàriament aquesta casa a favor de la seva esposa Francesca.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-62-07",
-      "dcterms:abstract": {
-        "@value": "Guillem Romeu, ciutadà de Barcelona, confirma a Antònia, vídua de Pere Descoll, pagès i ciutadà de la dita ciutat, l'establiment d'unes cases amb dos portals, hort i pou, situat tot a Barcelona, a prop de la casa dels Mesells, per un cens de 23 sous i 4 diners de moneda barcelonesa de tern anuals i sota domini de l'Almoina dels Pobres de la Seu de Barcelona. Rep, a més a més, una entra de 9 sous de la mateixa moneda.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-70-02",
-      "dcterms:abstract": {
-        "@value": "Andreu de Malla, ciutadà de Barcelona, com a procurador del seu fill Gilabert, ven a Ramon Despalau, prevere beneficiat a l'església de Sant Jaume de Barcelona, un cens de 3 morabatins i mig alfonsins que cobra al notari Antoni Saplana sobre un hort situat vora el portal Nou, a la Tria Juïga. El preu de venda és de 78 lliures i 15 sous de moneda barcelonesa. Inclou instrument d'àpoca.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-08",
-      "dcterms:abstract": {
-        "@value": "Berenguer de Plana i la seva muller Ermessenda venen a Guillem Querús i el seu gendre Pere Mascaró la meitat de dues feixes de terra que el mateix Berenguer té amb els dits Querús i Mascaró en alou franc i lliure, a Santa Eulàlia de Provençana, sota la via de Torre Blanca. El preu de venda és de 195 sous de Barcelona.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-20",
-      "dcterms:abstract": {
-        "@value": "Els germans Margarida, Saura i Berenguer de Rodegia, fills del difunt Bernat de Rodegia, reconeixen haver rebut de Guillem de Sitges, marit de la dita Margarida, 11.500 sous de moneda barcelonesa de tern que eren el preu pel que li van vendre unes cases que tenien al burg de Barcelona, al carrer de Ramon Marquet. Dels dits diners, Guillem en va retenir 5.000 sous, que eren el dot degut de la dita Margarida, i la resta els va pagar tant a Saura com a Berenguer.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-23",
-      "dcterms:abstract": {
-        "@value": "Elisenda de Noguera, filla de Pere Sastre i Pericona, dóna i defineix a Guillem Sala i els seus unes cases que foren de la seva tieta Maria de Noguera, en el carrer de Sant Pere més Baix de Barcelona, que estan sota domini del monestir de Sant Pere de les Puel·les.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-26",
-      "dcterms:abstract": {
-        "@value": "Els marmessors i executors testamentaris de Jaume de Santaeugènia, sagristà de Mallorca i canonge de la Seu de Barcelona, estableixen Bernat de Riera, ciutadà de Barcelona, en una casa i un espai de terra contigu que el dit Jaume tenia a la dita ciutat, al carrer de Lledó, i que va donar a l’Almoina de la Seu, per un cens de 2 morabatins anuals a pagar per Tots Sants. A més a més, reben una entrada de 50 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-31",
-      "dcterms:abstract": {
-        "@value": "Bernat d’Esplugues, procurador del seu germà Nicolau, reconeix a Pere Marquès, notari de Barcelona, que del preu de la venda de la honor del difunt Pere Ferrer, de Molins de Rei, situat a la les parròquies de Santa Maria d’Esplugues i Sant Just Desvern, que el mateix Ferrer havia adquirit en part del bisbe i del capítol de la Seu de Barcelona i en part de Bernat Ferrer, hereu i germà de dit Pere Ferrer, li ha lliurat 560 sous barcelonesos que corresponen al dit Nicolau d’acord amb una composició feta anteriorment amb els marmessors del dit difunt. El defineix en nom del seu germà de tota reclamació que pogués aquell tenir contra els béns del dit difunt.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-33",
-      "dcterms:abstract": {
-        "@value": "Ramon de Plegamans estableix a Arnau de Bonastre una peça de tetta amb arbres situada a l’horta de Queraltm en el Cap de Tàpies, per un cens de tres morabatins anuals per la Mare de Déu d’agost. Rep, a més a més, una entrada de 220 sous de moneda barcelonesa.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-40",
-      "dcterms:abstract": {
-        "@value": "Bonanat Sabater estableix a Pere de Solà, tintorer, un sòl de terra que és de les pertinences del seu hospici, situat al suburbi de Barcelona, sobre l’església de Sant Cugat del Rec, on hi podrà tenir taules. El cens serà d’un morabatí equivalent a 9 sous cada festa de la Mare de Déu d’agost. Rep, a més a més, una entrade de 20 sous.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-45",
-      "dcterms:abstract": {
-        "@value": "Fra Ramon, cambrer del monestir de Santa Maria de Ripoll, estableix Vigatà de Vilardepoll, carnisser i ciutadà de Barcelona, i als seus en una vinya de l'alou de la cambra del monestir en el territori de Barcelona, a prop del mas de Bernat de Rovira, per un cens de 3 morabatins alfonsins anuals. Rep, a més a més, una entrada de 15 morabatins alfonsins. ",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-46",
-      "dcterms:abstract": {
-        "@value": "Bartomeu de Castellbisbal reconeix haver rebut de Pere d’Olorda els 650 sous barcelonesos de tern que li va prometre pagar pel preu de Ratera, això és, 400 sous en diners i la resta en un rossí.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-48",
-      "dcterms:abstract": {
-        "@value": "Berenguer de Montcada i Berenguer de Roca dicten sentència arbitral en la controvèrsia que Mascarosa, vídua de Pere Fuster, d’una banda, i Bernat de Rodegia, de l’altra, tenien per la paret que separava llurs vivendes.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-50",
-      "dcterms:abstract": {
-        "@value": "Ramon Figuera, de la parròquia de Santa Maria d’Esplugues, com a procurador d’Alamanda, vídua d’Arbert de Serna[...], ven a Guillem de na Guia, de Martorell, i a Ramon d’Om, de Subirats, la recaptació de dos anys dels masos d’Om i Sacalm, tots dos del terme de Subirats, llevat dels lluïsmes i d’altres accidents. El preu de venda és de 120 sous barcelonesos de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-92-02",
-      "dcterms:abstract": {
-        "@value": "Guillemó de Sala, fill del difunt Pere de Sala, amb el consell i voluntat de la seva mare Guilleuma, estableix Pere Provençal, de la parròquia de Sant Adrià de Besòs, una vinya que té en franc alou a la parròquia de Santa Maria de Badalona, al lloc dit Serra de Llefià o Coma de Roure, per un cens de 2 morabatins alfonsins cada festa de la Mare de Déu d'agost. Rep, a més a més, una entrada de 100 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-92-27",
-      "dcterms:abstract": {
-        "@value": "Bernat de Santcliment, senyor de la casa de Badalona, estableix una peça de terra a Guillem Monistrol, situada a la parròquia de Santa Maria de Badalona, perquè hi edifiqui una casa i sigui el seu home propi, soliu i afocat, pagant un cens de 4 sous i mig de moneda barcelonesa de tern anuals. Rep, a més a més, una entrada de 4 sous i mig de la mateixa moneda.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_37-11-14",
-      "dcterms:abstract": {
-        "@value": "Joan Llombard, broador i ciutadà de Mallorca, estableix Arcís Ramir, argenter i ciutadà de la mateixa ciutat, i a la seva esposa Caterina en un verger situat a l’horta de la present ciutat, sota domini directe de l’ardiaca de Barcelona, per un cens 20 sous de moneda reial de Mallorca a pagar cada any per sant Miquel de setembre. Rep, a més a més, una entrada de 50 sous de la mateixa moneda.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-03",
-      "dcterms:abstract": {
-        "@value": "Galceran de Mirambell i la seva esposa Sança, filla i hereva universal del difunt Bernat de Palou, jurisperit, estableixen a Pere Aulet, de Granollers, i als seus un camp de terra dit Camp des Roure, situat a la mateixa vilam, en el vinyet jussà, per un cens anual d’una quartera de forment anual. L’entrada és de 250 sous barcelonesos de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-10",
-      "dcterms:abstract": {
-        "@value": "Beatriu de Palou i el seu fill Bernat, de Granollers, estableixen a Simó Lledó i als seus una peça de terra situada a la dita parròquia, al lloc dit la Font de Sant Martí, que és sota domini del monestir de Sant Miquel del Fai, per un cens d’una quartera de blat anual a la mesura de Granollers per Sant Feliu d’agost. Per l’establiment reben una entrada de 50 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-22",
-      "dcterms:abstract": {
-        "@value": "Bernat de Palou, jurisperit i ciutadà de Barcelona, estableix Bernat de Bas, de Granollers, en una peça de terra que té al territori de la dita parròquia, vora els murs, que té sota domini i alou de la cambreria del monestir de Santa Maria de Ripoll, per un cens de 5 sous barcelonesos de tern anuals. Rep, a més a més, una entrada de 20 sous barcelonesos de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-24",
-      "dcterms:abstract": {
-        "@value": "Joan de Palou i la seva esposa Arnaleta estableixen Berenguer de Santmiquel i la seva esposa Berenguera en unes cases i una vinya situades al terme de Granollers, en l'alou que tenen pel monestir de Sant Cugat del Vallès. Els censos a percebre seran d'un parell de capons per Nadal per la casa, i d'una quartera de faves per la vinya cada festa de Sant Feliu d'agost. A més a més, els establerts hauran de fer residència afocada en la dita casa. Els atorgants reben com a entrada 50 sous barcelonesos de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-25",
-      "dcterms:abstract": {
-        "@value": "Joan de Palou, de Granollers, i la seva muller Elisenda estableixen a Pere Bruniquer, sastre i habitant de la dita vila, una peça de terra que tenen a les hortes mitjanes i que tenen per Bernat de Palou, ciutadà de Barcelona, i sota domini i alou de la Canònica de Barcelona i les seves prepositures de febrer, agost i desembre, per un cens de tres quarteres de forment a la mesura de la dita vila que hauran de prestar al dit Bernat cada festa dels sants Pere i Feliu d’agost. Reben per l’establiment una entrada de 130 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F2-26",
-      "dcterms:abstract": {
-        "@value": "Pere Batlle, àlies de na Arsèn, de la vila de Granollers, i Pericó Bruniquer, fill dels difunts Pere Bruniquer, sastre, i Simona, de la mateixa vila, venen a Guillem de Conamina, de la dita vila, dues terceres parts d’una peça de terra que el dit Pere Bruniquer abans havia comprat a Joan de Palou i a la seva esposa Elisenda. El preu de venda és de 300 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F4-06",
-      "dcterms:abstract": {
-        "@value": "Berenguer de Rovira, d’Eramprunyà, i la seva esposa atorguen a llur filla Berenguera i al seu futur marit Guillem de les Gunyoles, en qualitat d’herència seva i com a aixovar del seu espòs, tot el feu que tenen per Saurina de Castellet i el seu marit Guillem de Mediona al terme del castell de Castellet, i tot l’alou que també tenen en el terme de dit castell, que el dit Berenguer de Rovira va rebre en herència del difunt Berenguer de Castellnou. Tot està valorat en 600 morabatins.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F4-09",
-      "dcterms:abstract": {
-        "@value": "Saurina de Castellet concedeix a Guillem de Gunyola el feu que té per ella a l’Arboç i la seva quadra. També li confirma la donació del feu que li havia fet Berenguer de Castellnou, fill d’Arnau de Castellnou.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-57",
-      "dcterms:abstract": {
-        "@value": "Berenguer Llobet, fuster, ven a Bernat Rovira mitja mujada de terra que té per Berenguer de Bonastre i sota domini i alou del bisbe de Barcelona, a la parròquia de Sant Martí de Provençals, sota el camí que va a Sant Adrià. El preu de venda és de 56 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-58",
-      "dcterms:abstract": {
-        "@value": "Bernat de Sitjar, prevere beneficiat a la Seu de Barcelona, marmessor i executor del darrer testament de mestre Bernat de Llimona, físic i beneficiat de la mateixa seu, junt amb Guillem de Llimona, ciutadà de la dita ciutat, i amb Berenguer de Llimona, d'Olesa de Montserrat, reconeix arribar a bon recompte amb Guillem de Llimona de les quantitats de diners que ha aquest ha administrat en l'exercici de la dita marmessoria, i l'absol de qualsevol demanda ulterior. ",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-62",
-      "dcterms:abstract": {
-        "@value": "Sentència dictada per Guerau de Bosc, oficial del bisbe de Barcelona, condemnant Gastó de Montcada, canonge de les seus d’Urgell i de Lleida, i Berenguer Alemany, canonge de la Seu de Vic i prepòsit de juny, per no haver pagat a Guillem de Llimona, ciutadà de Barcelona, un deute de 4.200 sous barcelonesos de tern que van prometre tornar-li. El jutge declara culpables els acusats i els condemna a retornar els diners sota pena d’excomunió.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-73",
-      "dcterms:abstract": {
-        "@value": "Pere de Santaeugènia, cavaller de la diòcesi de Vic, ven a Berenguer d’Escradall, de la parròquia de Santa Coloma de Vinyoles, una honor de set feixes contígües que té a la mateixa parròquia. El preu de venda és de 350 sous barcelonesos de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-81",
-      "dcterms:abstract": {
-        "@value": "Antic Segarra, sabater i ciutadà de Barcelona, ven a Pere de Puig, capeller i ciutadà de la mateixa ciutat, una peça de vinya que té pels hereus de Guillem de Llimona i sota domini i alou del bisbe, situada a la parròquia de Sant Martí de Provençals, al camp dit de Getó, dins les possessions del mas de Llimona. El preu de venda és de 100 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-85",
-      "dcterms:abstract": {
-        "@value": "Berenguer Fuster, com a tutor legítim del seu fill Bernat, amb el consell i aprovació de Bernat de Cortielles, avi matern del nen, estableix a Guillem Sabater el mas dit de Marina, que és situat a Sant Martí de Provençals, al lloc dit Marina, i que és sota alou i domini del bisbe de Barcelona, per un cens d’un cinquè dels fruits de pa, vi i canyes, sense haver de pagar res per tres versanes de terra que podrà convertir en farraginal i hort. Pagarà també un parell de capons per la casa, horts i farraginals, a banda dels censos que haurà de prestar pel dit Bernat al bisbe de Barcelona. Com a entrada de l’establiment rep un total de 60 sous barcelonesos de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F3-86",
-      "dcterms:abstract": {
-        "@value": "Suau, vídua d’Arnau de Bossons, i el seu fill Arnau, amb el consell i voluntat dels marmessors del dit difunt, venen a Arnau de Cortielles i la seva esposa Ollera un mas que tenen a Sant Martí de Provençals i una terra situada a la mateixa parròquia, al lloc dit Getó, que són sota domini del bisbe de Barcelona i del canonge Bernat de Rabassa, que ho té en feu pel prelat. El preu de venda és de 500 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-1-17",
-      "dcterms:abstract": {
-        "@value": "Bernat Constanci, fill de Ferran Boquer, difunt, amb llicència de la seva mare Maria Constança, ven a Bernat de Santandreu, canonge de Barcelona, i a Ramon, clerguer i rector de les presbiterat instituït pel dit Bernat de Santandreu a l’altar de Sant Nicolau de la Seu de Barcelona, unes cases que té pel mateix presbiterat situades en el burg de Barcelona, en el carrer de Sant Pere. El preu de venda és de 160 sous barcelonesos.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-10-16",
-      "dcterms:abstract": {
-        "@value": "Pere de Roca, fill de Berenguer de Roca, reconeix a Berenguera, filla del difunt Bernat de Copons i de Guilleuma, que ha rebut d’ella un dot de 400 morabatins alfonsins amb unes cases situades al burg de Barcelona i 100 morabatins més que donarà la seva mare Guilleuma provinents del seu esponsalici. I així la pren per esposa.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-13-13",
-      "dcterms:abstract": {
-        "@value": "Inventari dels béns del difunt Pere de Trull.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-15-27",
-      "dcterms:abstract": {
-        "@value": "Atès que Elisenda, vídua de Badaló de Badalona, mariner, i tieta materna de Pere Fuster, apotecari i ciutadà de Barcelona, li va efectuar donació entre vius d’unes cases que tenia i posseïa a Barcelona, al lloc dit Farraginal o Caules; i com el dit Pere Fuster tem que la dita Elisenda hagués fet la mateixa donació a Jaumeta, muller de Bernat Amat, ciutadà de la dita ciutat, aquesta defineix i absol el dit Pere de tota reclamació sobre aquella finca.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-19-06",
-      "dcterms:abstract": {
-        "@value": "Testament de Bernat Calderer, ciutadà de Barcelona.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-20-04",
-      "dcterms:abstract": {
-        "@value": "Per tal de satisfer el dot i l’esponsalici a la seva mare Berenguera, Berenguer de Roca, fill seu, li ven un cens de sis quarteres d’ordi i tot el domini que té en un camp i una vinya contigües situats en el territori de Barcelona, prop el coll d’Enforcats, i que són sota domini i alou de Jaume de Cabanes, jurisperit i ciutadà de la mateixa ciutat, que en rep un cens anual de mig morabatí. El preu de venda és de 20 lliures que la seva mare reté com a porció del que li és degut.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-3-100",
-      "dcterms:abstract": {
-        "@value": "Testament de Guilleuma, muller de Berenguer de Rubí.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-4-35",
-      "dcterms:abstract": {
-        "@value": "Clàusula del testament de Guillem Palot, ciutadà de Barcelona, en què institueix hereus universals Déu, els pobres i diverses causes pies.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-42-32",
-      "dcterms:abstract": {
-        "@value": "Bernat de Pujol promet a Arnau de Torrelles que no demanarà als jueus Isaac, fill d’Abrahe Adret, i Salomó, fill de Bonjuda Adret, els 120 morabatins que té en llur comanda, que són el preu de venda del seu mas de Pujol, que va vendre al predit Arnau, fins que no composi amb els jueus de Barcelona amb qui té deutes.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-44-45",
-      "dcterms:abstract": {
-        "@value": "Berenguer de Roca reconeix haver rebut de Berenguer Andrey 40 sous de moneda barcelonesa per la meitat de les despeses fetes en una paret que va construir i que separa llirs proprietats, en l’horta de Queralt del suburbi de Barcelona. Pacta, a més a més, l’estat comú de la dita paret entre tots dos.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-48-04",
-      "dcterms:abstract": {
-        "@value": "Antoni Ponçgem, pellisser ciutadà de Barcelona, reconeix a Joan Pere, brodador i ciutadà de la dita ciutat, absent, que la compra que ha efectuat a Pere Alexandrí, perpunter i ciutadà de la mateixa ciutat, d’un obrador situat al carrer de la Freneria de Barcelona la va fer en el seu nom i li cedeix tots els drets sobre aquest immoble.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-62-39",
-      "dcterms:abstract": {
-        "@value": "Bernat Granyena, mercader i ciutadà de Barcelona, estableix Jaume Tarragona, paraire de draps de llana i ciutadà de la mateixa ciutat, una mujada i mitja de terra plantada de vinya que està situada al territori de Barcelona, al lloc dit el Puig d’Aguilar, a prop de la torre de Ramon Ros, ciutadà de la dita ciutat, que està sota domini i alou del monestir de Sant Pere de les Puel·les, per un cens de tres morabatins anuals. Rep, a més a més, una entrada de 6 florins d’or d’Aragó.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-70-13",
-      "dcterms:abstract": {
-        "@value": "Arnaldó Sabastida, ciutadà de Barcelona, fill i hereu universal del difunt Arnau Sabastida, ciutadà de la dita ciutat, ven a Ramon Despalau, prevere de la mateixa ciutat, un cens de tres morabatins alfonsins i tot el dret que té sobre una casa amb dos portals i hort contigu que Francesc Guixar, moler i ciutadà de la dita ciutat, té sota el seu domini i alou en el carrer dit d’en Moneder. El preu de venda és de 75 lliures de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-70-42",
-      "dcterms:abstract": {
-        "@value": "Elionor, vídua de Simó Sala, mercader i ciutadà de Barcelona, atès que es tracta d’un edifici molt vell i d’un cens antic, concedeix a Margarida, vídua d’Antoni Llor, cuirasser, i de Bernat Quinbtana, taverner, tots dos ciutadans de la mateixa ciutat, la reducció del cens d’unes cases de la Blanqueria de 63 sous anuals a la quantitat inferior de 45 sous. Rep per la reducció un parell de gallines.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-70-49",
-      "dcterms:abstract": {
-        "@value": "Benvinguda, vídua de Bartomeu Monge, mercader i ciutadà de Barcelona, i hereva del seu difunt fill Bartomeu Monge, ven a Jaume de Prat, patró de coca i ciutadà de la mateixa ciutat, absent, i a Francesc Cisa, draper i ciutadà de la dita ciutat, el seu procurador, una casa que té a la ciutat de Barcelona, sota la Blanqueria. El preu de venda és de 50 lliures de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-73-45",
-      "dcterms:abstract": {
-        "@value": "Joan Pere, brodador i ciutadà de Barcelona, ven a Bernat Formiguera, pintor, fill del difunt Bernat Formiguera, corredor de felpa i ciutadà de la mateixa ciutat, un obrador que té al suburbi de la dita ciutat, al carrer de la Freneria, que es té per l’altar de Sant Jaume construït a la Seu de Vic i sota domini i alou d’aquest. El preu de venda és de 55 lliures de moneda barcelonesa. Inclou instruments del traspàs de la possessió corporal i d’àpoca.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-78-49",
-      "dcterms:abstract": {
-        "@value": "Per tal de complir les disposicions testamentàries del difunt Pere Poses, seller i ciutadà de Barcelona, Bartomeu Ponç, prevere i nebot seu, com a únic marmessor supervivent, ven al cavaller Ferrer de Gualbes un obrador situat al puig dels Tallers, a la ciutat de Barcelona. El preu de venda és de 5 lliures i 10 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-80-19",
-      "dcterms:abstract": {
-        "@value": "Maria, vídua de Berenguer Sala, mestre de cases i ciutadà de Barcelona, tutora de la persona i béns de Pericó i Baltasar, fills seus, i Bernat Sala, mestre de cases i ciutadà de la dita ciutat, procurador de Joan Sala, fill de dit Berenguer i de la seva primera esposa Francesca, venen a Andreu Escuder, mestre de cases i ciutadà de la mateixa ciutat, una casa situada al carrer d’en Sarrià, que es té pels hereus i successors de Pere Begudà, prevere de la mateixa ciutat, que alhora la tenen per Jaume Copí, brodador, ciutadà de la dita ciutat, com a successor d’Eulàlia, vídua de Ramon Desplà, que a la vegada la té per Miquel de Montjuïc, i que es té sota domini i alou del monestir de Santa Eulàlia del Camp. El preu de venda és de 46 lliures barceloneses.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-90-06",
-      "dcterms:abstract": {
-        "@value": "Concòrdia entre Ramon Boter de Gallifa i el seu fill Ramon, d'una banda, i Bernat de Rodègia, de l'altra, sobre la paret que dividia les seves propietats de Barcelona, arbitrada per Berenguer de Montcada i Berenguer de Roca.  ",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_11-1-14",
-      "dcterms:abstract": {
-        "@value": "Gilabert de Cruïlles atorga potestat a Ramon de Santapau, ardiaca, i a Arnau de Mont-rodon, canonge de Girona, per vendre el seu castell de Montagut, situat a la parròquia de Sant Feliu de Llagostera.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_13-5-08",
-      "dcterms:abstract": {
-        "@value": "Maria Olleta, filla de Pere de Grau i Ermessenda, per salvació de la seva ànima fa donació a l’església de Santa Maria Savall i el seu rector Bernat de Grau de mitja quartera d’ordi a la mesura de Vic que Joan de Serra i la seva muller Joana li presten anualment per les honors que tenen per ella a Sant Andreu de Castellcir i Sant Quirze Safaja.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_2-5-19",
-      "dcterms:abstract": {
-        "@value": "Suau de Bossons reconeix tenir pel monestir de Sant Cugat del Vallès i la seva obra el mas dit de Capella, que és al terme del castell de Mataró així com dues feixes dites les illes de Sant Martí i la feixa dita de Rovet.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_20-1-01",
-      "dcterms:abstract": {
-        "@value": "Ramona, filla de Bernat Bartolí, pintor de Perpinyà, amb el consell i volntat del seu pare i del seu germà Bartomeu Bartolí, ebdomadari de Vilanova de Raó, ven a Bernat Calvet, fuster de Perpinyà, una vinya situada al terme de Sant Julià de Vilanova. El preu de venda és de 44 sous melgoresos.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_22-1-24",
-      "dcterms:abstract": {
-        "@value": "Maimó Cerdà i la seva muller Barcelona venen a Guillem de Riudecols un cens de sis faneques de blat comú que perceben anualment sobre una honor situada en el terme d’Alforja, a les Irles. El preu de venda és de 100 sous barcelonesos de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_23-1-07",
-      "dcterms:abstract": {
-        "@value": "Bernat Mulet, ciutadà de Tarragona, cedeix a Alegret Taudell tot el dret que té contra Ferrer Taudell, difunt, rector d’Alforja, per raó de 400 quartans d’oli a què el dit Alegret s’havia obligat, per tal que pugui procedir contra els béns de dit Ferrer i els seus hereus.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_28-8-06",
-      "dcterms:abstract": {
-        "@value": "Els marmessors del difunt Jaume de Cervera, per tal de satisfer els seus deutes i injúries, venen el castell i la vila de Conques a Ramon d’Orcau. El preu de venda és de 6.420 masmudines jocefines d’or.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_7-4-31",
-      "dcterms:abstract": {
-        "@value": "Guillem, fill d’Arbert de Banyeres, es declara home propi d’Arnau de Casals i promet anar al seu costat quan li ho sigui requerit. Li presta homenatge de boca i mans i declara que pagarà una lliura de cera a l’any en senyal de senyoria.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_7-5-18",
-      "dcterms:abstract": {
-        "@value": "Arnau de Borsaleu i la seva muller Maria venen a Martí Sardina i als seus un camp que tenen per Bernat de Centelles a la parròquia de Sant Vicenç de Mollet, al lloc dit Altafulla, sobre el mas del dit Martí. El preu de venda és de 50 sous de moneda corrent a Barcelona.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_7-7-34",
-      "dcterms:abstract": {
-        "@value": "Bernat de Vilassar, amb el consell i voluntat del seu germà Pere, estableix Guerau de Montmeló en un hort situat a Llerona, pel que pagarà un cens anual d'una gallina. ",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-F14-55",
-      "dcterms:abstract": {
-        "@value": "Ramon de Sitjar atorga a Ermessenda un esponsalici de 900 sous en diners de Barcelona, i la pren com a esposa.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C3-F7-32",
-      "dcterms:abstract": {
-        "@value": "Margarida, filla del difunt Galceran d’Horta, amb el consell i voluntat del seu marit Vidal de Rovira, defineix el seu oncle Pere d’Horta de tota reclamació sobre la seva heretat i llegítima paterna i materna i es confessa pagada de 400 morabatins bons alfonsins d’or.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C3-F7-34",
-      "dcterms:abstract": {
-        "@value": "Testament de Galceran d’Horta.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_1-92-38",
-      "dcterms:abstract": {
-        "@value": "Guerau Bassella, de Santa Engràcia de Montcada, ven a Bernat Descoll, dit Estrany, de la mateixa parròquia, un tros de montanya i bosc que té al lloc dit Coma de Tredós per Pere Rostoll i sota domini i alou del senyor del castell de Montcada. El preu de venda és de 16 sous de moneda barcelonesa de tern.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_27-1-07",
-      "dcterms:abstract": {
-        "@value": "Testament de Sibil·la, vídua de Ramon de Montsonís, senyor d’Aladrell.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C1-D6-01",
-      "dcterms:abstract": {
-        "@value": "Testament de Ramon Llull.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C2-F4-61",
-      "dcterms:abstract": {
-        "@value": "Guillem Ramon Montornès, donzell de Mallorca, cedeix a Berenguer Montornès un censal de 6 lliures i 8 sous de pensió anual que Bernat Salvà li presta cada festa de Nadal.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C3-F14-20",
-      "dcterms:abstract": {
-        "@value": "Pere Martí, ciutadà de Mallorca, fill del difunt Pascasi Martí, atès que s’havien perdut tots els instruments i nòtules anteriors, reestableix i confirma a Bartomeu Darany, ciutadà de la mateixa ciutat, un rafal que té per ell a la parroquia de Valldemossa, del que el dit Bartomeu n’havia adquirit el domini útil a Arnau Bonaventura, habitant de la dita parroquia. El cens será de 16 sous de moneda reial de Mallorca a pagar cada Nadal. Rep, a més a més, una entrada de 25 sous de moneda reial de Mallorca per dues oques.",
-        "@language": "ca"
-      }
-    },
-    {
-      "@id": "amsmb:Charter_AMSMB_C4-F14-37",
-      "dcterms:abstract": {
-        "@value": "El guardià i convent de Sant Francesc de Barcelona, en atenció a un drap brocat d’or i de seda per a guarniment d’una trona on es posa el Cos de Crist el dia de Corpus Christi i a la renda perpètua de 10 sous anuals per lluminària a esmerçar en la dita festa que Jeroni Rajola, mercader de la dita ciutat, ha  concedit al dit convent, institueixen un aniversari per l’ànima del mateix Rajola.",
-        "@language": "ca"
+      "@id": "amsmb:Orchestrator",
+      "@type": "ddi-cdi:DataStore",
+      "dcterms:title": "AMSMB HTR Dataset — DDI-CDI Orchestrator",
+      "dcterms:description": "Machine-actionable metadata hub linking archival CSV, manuscript images (JPEG) and structural annotations (PageXML) for the AMSMB HTR dataset of 100 medieval notarial charters (1208–1499).",
+      "dcterms:publisher": {
+        "@id": "amsmb:org_BSC"
+      },
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "dcterms:identifier": "https://dataverse.bsc.es/citation?persistentId=perma:BSC/0VB0MC",
+      "dcterms:temporal": "1208/1499",
+      "dcterms:language": [
+        "la",
+        "ca"
+      ],
+      "schema:citation": [
+        "Coll Ardanuy, Mariona; Cuadrada, Coral; Sarobe, Ramon, 2025, 'Dataset for handwritten text recognition in medieval notarial charters written on parchment (1208-1499)', https://dataverse.bsc.es/citation?persistentId=perma:BSC/0VB0MC, BSC Dataverse, V1",
+        "Coll Ardanuy, Mariona; Berganzo-Besga, Iban; Sarobe, Ramon; Cuadrada, Coral, 2025, 'Evaluating Handwritten Text Recognition in Medieval Notarial Manuscripts: A New Dataset and Comprehensive Analysis', International Conference on Document Analysis and Recognition (ICDAR)"
+      ],
+      "dcterms:hasPart": [
+        {
+          "@id": "amsmb:WideDataSet_Charters"
+        },
+        {
+          "@id": "amsmb:ConceptualDomain_DocumentTypes"
+        },
+        {
+          "@id": "amsmb:ProcessModel_AMSMB_HTR"
+        },
+        {
+          "@id": "amsmb:Summaries_AMSMB_Charters"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:Summaries_AMSMB_Charters",
+      "@type": "ddi-cdi:DataStore",
+      "dcterms:title": "AMSMB charter summaries",
+      "dcterms:description": "Contemporary Catalan summaries (dcterms:abstract) for each of the 100 charters, authored by Ramon Sarobe. One node per charter, each sharing the same @id as its corresponding InstanceValue in the WideDataSet. Stored as a separate JSON-LD file (amsmb_charters_summaries.jsonld) and linked to this orchestrator via shared @id references.",
+      "owl:sameAs": {
+        "@id": "amsmb_charters_summaries.jsonld"
+      }
+    },
+    {
+      "@id": "amsmb:WideDataSet_Charters",
+      "@type": "ddi-cdi:WideDataSet",
+      "dcterms:title": "AMSMB charter records (metadata.csv)",
+      "ddi-cdi:has": [
+        {
+          "@id": "amsmb:Component_Reference"
+        },
+        {
+          "@id": "amsmb:Component_Split"
+        },
+        {
+          "@id": "amsmb:Component_Date"
+        },
+        {
+          "@id": "amsmb:Component_Archive"
+        },
+        {
+          "@id": "amsmb:Component_Signature"
+        },
+        {
+          "@id": "amsmb:Component_Notary"
+        },
+        {
+          "@id": "amsmb:Component_Type"
+        },
+        {
+          "@id": "amsmb:Component_Material"
+        },
+        {
+          "@id": "amsmb:Component_Folder"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:Component_Reference",
+      "@type": "ddi-cdi:IdentifierComponent",
+      "ddi-cdi:name": "reference"
+    },
+    {
+      "@id": "amsmb:Component_Split",
+      "@type": "ddi-cdi:AttributeComponent",
+      "ddi-cdi:name": "split"
+    },
+    {
+      "@id": "amsmb:Component_Date",
+      "@type": "ddi-cdi:AttributeComponent",
+      "ddi-cdi:name": "date"
+    },
+    {
+      "@id": "amsmb:Component_Archive",
+      "@type": "ddi-cdi:AttributeComponent",
+      "ddi-cdi:name": "archive"
+    },
+    {
+      "@id": "amsmb:Component_Signature",
+      "@type": "ddi-cdi:AttributeComponent",
+      "ddi-cdi:name": "signature"
+    },
+    {
+      "@id": "amsmb:Component_Notary",
+      "@type": "ddi-cdi:AttributeComponent",
+      "ddi-cdi:name": "scrivener/notary"
+    },
+    {
+      "@id": "amsmb:Component_Type",
+      "@type": "ddi-cdi:MeasureComponent",
+      "ddi-cdi:name": "type",
+      "ddi-cdi:isDefinedBy": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:Component_Material",
+      "@type": "ddi-cdi:AttributeComponent",
+      "ddi-cdi:name": "material"
+    },
+    {
+      "@id": "amsmb:Component_Folder",
+      "@type": "ddi-cdi:AttributeComponent",
+      "ddi-cdi:name": "folder"
+    },
+    {
+      "@id": "amsmb:ConceptualDomain_DocumentTypes",
+      "@type": [
+        "ddi-cdi:ConceptualDomain",
+        "skos:ConceptScheme"
+      ],
+      "dcterms:title": "Medieval notarial document types — AMSMB corpus",
+      "dcterms:description": "Controlled vocabulary of 29 legal document types drawn from the metadata.csv 'type' field. Labels are in Catalan, as used by the expert paleographer Ramon Sarobe.",
+      "dcterms:language": "ca",
+      "skos:hasTopConcept": [
+        {
+          "@id": "amsmb:cat_Absolucio"
+        },
+        {
+          "@id": "amsmb:cat_Afranquiment"
+        },
+        {
+          "@id": "amsmb:cat_CapitolsMatrimonials"
+        },
+        {
+          "@id": "amsmb:cat_ClausulaTestamentaria"
+        },
+        {
+          "@id": "amsmb:cat_ComunitatDeBens"
+        },
+        {
+          "@id": "amsmb:cat_Concordia"
+        },
+        {
+          "@id": "amsmb:cat_Confirmacio"
+        },
+        {
+          "@id": "amsmb:cat_Definicio"
+        },
+        {
+          "@id": "amsmb:cat_Donacio"
+        },
+        {
+          "@id": "amsmb:cat_DonacioEntreVius"
+        },
+        {
+          "@id": "amsmb:cat_Dot"
+        },
+        {
+          "@id": "amsmb:cat_Esponsalici"
+        },
+        {
+          "@id": "amsmb:cat_Establiment"
+        },
+        {
+          "@id": "amsmb:cat_Homenatge"
+        },
+        {
+          "@id": "amsmb:cat_Infeudacio"
+        },
+        {
+          "@id": "amsmb:cat_InstitucioDAniversari"
+        },
+        {
+          "@id": "amsmb:cat_Inventari"
+        },
+        {
+          "@id": "amsmb:cat_Jurament"
+        },
+        {
+          "@id": "amsmb:cat_Permuta"
+        },
+        {
+          "@id": "amsmb:cat_Poders"
+        },
+        {
+          "@id": "amsmb:cat_Promesa"
+        },
+        {
+          "@id": "amsmb:cat_Reconeixement"
+        },
+        {
+          "@id": "amsmb:cat_ReduccioDeCens"
+        },
+        {
+          "@id": "amsmb:cat_Sentencia"
+        },
+        {
+          "@id": "amsmb:cat_SentenciaArbitral"
+        },
+        {
+          "@id": "amsmb:cat_Testament"
+        },
+        {
+          "@id": "amsmb:cat_Venda"
+        },
+        {
+          "@id": "amsmb:cat_Apoca"
+        },
+        {
+          "@id": "amsmb:cat_ApocaDotal"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:cat_Absolucio",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Absolució",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Afranquiment",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Afranquiment",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_CapitolsMatrimonials",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Capítols matrimonials",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_ClausulaTestamentaria",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Clàusula testamentària",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_ComunitatDeBens",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Comunitat de béns",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Concordia",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Concòrdia",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Confirmacio",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Confirmació",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Definicio",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Definició",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Donacio",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Donació",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_DonacioEntreVius",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Donació entre vius",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Dot",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Dot",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Esponsalici",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Esponsalici",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Establiment",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Establiment",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Homenatge",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Homenatge",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Infeudacio",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Infeudació",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_InstitucioDAniversari",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Institució d'aniversari",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Inventari",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Inventari",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Jurament",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Jurament",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Permuta",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Permuta",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Poders",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Poders",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Promesa",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Promesa",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Reconeixement",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Reconeixement",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_ReduccioDeCens",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Reducció de cens",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Sentencia",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Sentència",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_SentenciaArbitral",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Sentència arbitral",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Testament",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Testament",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Venda",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Venda",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_Apoca",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Àpoca",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:cat_ApocaDotal",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "Àpoca dotal",
+        "@language": "ca"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      }
+    },
+    {
+      "@id": "amsmb:groups_OPTIONAL_BLOCK_START",
+      "@type": "skos:note",
+      "rdfs:label": "OPTIONAL GROUPINGS — remove this node and the 7 skos:Collection nodes below if not approved by domain specialist"
+    },
+    {
+      "@id": "amsmb:group_PropertyTransfers",
+      "@type": "skos:Collection",
+      "skos:prefLabel": {
+        "@value": "Transfers of property",
+        "@language": "en"
+      },
+      "skos:member": [
+        {
+          "@id": "amsmb:cat_Venda"
+        },
+        {
+          "@id": "amsmb:cat_Permuta"
+        },
+        {
+          "@id": "amsmb:cat_Donacio"
+        },
+        {
+          "@id": "amsmb:cat_DonacioEntreVius"
+        },
+        {
+          "@id": "amsmb:cat_Establiment"
+        },
+        {
+          "@id": "amsmb:cat_Infeudacio"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:group_DebtPayment",
+      "@type": "skos:Collection",
+      "skos:prefLabel": {
+        "@value": "Debt and payment acknowledgement",
+        "@language": "en"
+      },
+      "skos:member": [
+        {
+          "@id": "amsmb:cat_Apoca"
+        },
+        {
+          "@id": "amsmb:cat_ApocaDotal"
+        },
+        {
+          "@id": "amsmb:cat_Reconeixement"
+        },
+        {
+          "@id": "amsmb:cat_ReduccioDeCens"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:group_FamilyMatrimonial",
+      "@type": "skos:Collection",
+      "skos:prefLabel": {
+        "@value": "Family and matrimonial",
+        "@language": "en"
+      },
+      "skos:member": [
+        {
+          "@id": "amsmb:cat_CapitolsMatrimonials"
+        },
+        {
+          "@id": "amsmb:cat_Dot"
+        },
+        {
+          "@id": "amsmb:cat_Esponsalici"
+        },
+        {
+          "@id": "amsmb:cat_ComunitatDeBens"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:group_Testamentary",
+      "@type": "skos:Collection",
+      "skos:prefLabel": {
+        "@value": "Testamentary",
+        "@language": "en"
+      },
+      "skos:member": [
+        {
+          "@id": "amsmb:cat_Testament"
+        },
+        {
+          "@id": "amsmb:cat_ClausulaTestamentaria"
+        },
+        {
+          "@id": "amsmb:cat_Inventari"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:group_LegalJudicial",
+      "@type": "skos:Collection",
+      "skos:prefLabel": {
+        "@value": "Legal and judicial",
+        "@language": "en"
+      },
+      "skos:member": [
+        {
+          "@id": "amsmb:cat_Sentencia"
+        },
+        {
+          "@id": "amsmb:cat_SentenciaArbitral"
+        },
+        {
+          "@id": "amsmb:cat_Concordia"
+        },
+        {
+          "@id": "amsmb:cat_Absolucio"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:group_ObligationsLoyalty",
+      "@type": "skos:Collection",
+      "skos:prefLabel": {
+        "@value": "Obligations and loyalty",
+        "@language": "en"
+      },
+      "skos:member": [
+        {
+          "@id": "amsmb:cat_Homenatge"
+        },
+        {
+          "@id": "amsmb:cat_Jurament"
+        },
+        {
+          "@id": "amsmb:cat_Promesa"
+        },
+        {
+          "@id": "amsmb:cat_Poders"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:group_Administrative",
+      "@type": "skos:Collection",
+      "skos:prefLabel": {
+        "@value": "Administrative and ecclesiastical",
+        "@language": "en"
+      },
+      "skos:member": [
+        {
+          "@id": "amsmb:cat_Confirmacio"
+        },
+        {
+          "@id": "amsmb:cat_Definicio"
+        },
+        {
+          "@id": "amsmb:cat_InstitucioDAniversari"
+        },
+        {
+          "@id": "amsmb:cat_Afranquiment"
+        }
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-8455-7196",
+      "@type": [
+        "schema:Person",
+        "prov:Agent"
+      ],
+      "schema:name": "Mariona Coll Ardanuy",
+      "schema:email": "mariona.coll@bsc.es",
+      "schema:affiliation": {
+        "@id": "amsmb:org_CSSH"
+      },
+      "schema:jobTitle": "Lead, Natural Language Processing for the Humanities",
+      "owl:sameAs": {
+        "@id": "https://orcid.org/0000-0001-8455-7196"
+      },
+      "ddi-cdi:hasRole": [
+        "Dataset conceptualization and design",
+        "Quality control and formal analysis",
+        "Manual line segmentation correction",
+        "Documentation"
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-2099-3567",
+      "@type": [
+        "schema:Person",
+        "prov:Agent"
+      ],
+      "schema:name": "Ramon Sarobe",
+      "schema:affiliation": {
+        "@id": "amsmb:org_CSSH"
+      },
+      "schema:jobTitle": "Expert medievalist and paleographer",
+      "owl:sameAs": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      },
+      "ddi-cdi:hasRole": [
+        "Manuscript selection",
+        "Paleographic transcription (semi-diplomatic)",
+        "Upload to eScriptorium",
+        "Transcription guidelines authorship",
+        "Metadata annotation (date, notary, document type)",
+        "Summary authorship"
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-4577-2381",
+      "@type": [
+        "schema:Person",
+        "prov:Agent"
+      ],
+      "schema:name": "Coral Cuadrada",
+      "schema:affiliation": {
+        "@id": "amsmb:org_CSSH"
+      },
+      "schema:jobTitle": "Lead, Computational Archival History",
+      "owl:sameAs": {
+        "@id": "https://orcid.org/0000-0003-4577-2381"
+      },
+      "ddi-cdi:hasRole": [
+        "Data collection coordination",
+        "Data selection oversight"
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-3964-9686",
+      "@type": [
+        "schema:Person",
+        "prov:Agent"
+      ],
+      "schema:name": "Felipe Gómez",
+      "schema:affiliation": {
+        "@id": "amsmb:org_CSSH"
+      },
+      "schema:jobTitle": "Senior research engineer",
+      "owl:sameAs": {
+        "@id": "https://orcid.org/0000-0003-3964-9686"
+      },
+      "ddi-cdi:hasRole": [
+        "Dataverse deposit",
+        "FAIR compliance",
+        "DDI-CDI metadata modelling"
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0009-0009-3108-380X",
+      "@type": [
+        "schema:Person",
+        "prov:Agent"
+      ],
+      "schema:name": "Adrián Carrascosa",
+      "schema:affiliation": {
+        "@id": "amsmb:org_CSSH"
+      },
+      "schema:jobTitle": "Research engineer",
+      "owl:sameAs": {
+        "@id": "https://orcid.org/0009-0009-3108-380X"
+      },
+      "ddi-cdi:hasRole": [
+        "Dataverse deposit",
+        "FAIR compliance"
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-2335-6977",
+      "@type": [
+        "schema:Person",
+        "prov:Agent"
+      ],
+      "schema:name": "Joan Giner",
+      "schema:affiliation": {
+        "@id": "amsmb:org_CSSH"
+      },
+      "schema:jobTitle": "Senior research engineer",
+      "owl:sameAs": {
+        "@id": "https://orcid.org/0000-0003-2335-6977"
+      },
+      "ddi-cdi:hasRole": [
+        "Local eScriptorium instance setup and maintenance",
+        "Technical support"
+      ]
+    },
+    {
+      "@id": "amsmb:person_MarcPrim",
+      "@type": [
+        "schema:Person",
+        "prov:Agent"
+      ],
+      "schema:name": "Marc Prim",
+      "schema:affiliation": {
+        "@id": "amsmb:org_AMVD"
+      },
+      "schema:jobTitle": "Archivist",
+      "ddi-cdi:hasRole": [
+        "Archive access provision",
+        "Manuscript digitization coordination"
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-1304-1939",
+      "@type": [
+        "schema:Person",
+        "prov:Agent"
+      ],
+      "schema:name": "Mercè Crosas",
+      "schema:affiliation": {
+        "@id": "amsmb:org_CSSH"
+      },
+      "schema:jobTitle": "Director, CSSH Laboratory",
+      "owl:sameAs": {
+        "@id": "https://orcid.org/0000-0003-1304-1939"
+      },
+      "ddi-cdi:hasRole": [
+        "Project design",
+        "Data strategy"
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-6161-2452",
+      "@type": [
+        "schema:Person",
+        "prov:Agent"
+      ],
+      "schema:name": "Iban Berganzo-Besga",
+      "schema:affiliation": {
+        "@id": "amsmb:org_CSSH"
+      },
+      "schema:jobTitle": "Senior research engineer",
+      "owl:sameAs": {
+        "@id": "https://orcid.org/0000-0002-6161-2452"
+      },
+      "ddi-cdi:hasRole": [
+        "Dataset validation"
+      ]
+    },
+    {
+      "@id": "amsmb:org_BSC",
+      "@type": [
+        "schema:Organization",
+        "prov:Agent"
+      ],
+      "schema:name": "Barcelona Supercomputing Center",
+      "schema:alternateName": "BSC",
+      "schema:url": {
+        "@id": "https://www.bsc.es"
+      },
+      "schema:location": "Barcelona, Catalonia, Spain",
+      "ddi-cdi:hasRole": [
+        "Publisher",
+        "Host institution"
+      ]
+    },
+    {
+      "@id": "amsmb:org_CSSH",
+      "@type": [
+        "schema:Organization",
+        "prov:Agent"
+      ],
+      "schema:name": "Computational Social Sciences and Humanities Laboratory",
+      "schema:alternateName": "CSSH Lab",
+      "schema:parentOrganization": {
+        "@id": "amsmb:org_BSC"
+      },
+      "ddi-cdi:hasRole": [
+        "Research laboratory",
+        "Dataset curator"
+      ]
+    },
+    {
+      "@id": "amsmb:org_AMSMB",
+      "@type": [
+        "schema:Organization",
+        "prov:Agent"
+      ],
+      "schema:name": "Archive of the Marquises of Santa Maria de Barberà",
+      "schema:alternateName": "AMSMB",
+      "schema:url": {
+        "@id": "https://archivemarquisesofbarbera.com"
+      },
+      "schema:location": "Vilassar de Dalt, Catalonia, Spain",
+      "ddi-cdi:hasRole": [
+        "Source archive",
+        "Physical manuscript custodian"
+      ]
+    },
+    {
+      "@id": "amsmb:org_AMVD",
+      "@type": [
+        "schema:Organization",
+        "prov:Agent"
+      ],
+      "schema:name": "Arxiu Municipal de Vilassar de Dalt",
+      "schema:alternateName": "AMVD",
+      "schema:location": "Vilassar de Dalt, Catalonia, Spain",
+      "ddi-cdi:hasRole": [
+        "Digitization provider",
+        "Image rights holder"
+      ]
+    },
+    {
+      "@id": "amsmb:tool_eScriptorium",
+      "@type": "ddi-cdi:InstrumentProgram",
+      "schema:name": "eScriptorium",
+      "schema:version": "0.14.2",
+      "schema:url": {
+        "@id": "https://escriptorium.readthedocs.io/en/latest/"
+      },
+      "dcterms:description": "Open-source platform for manual transcription alignment and annotation of historical documents. Used to upload images, run automatic line segmentation via Kraken, manually correct segments, and record paleographic transcriptions in PageXML format.",
+      "ddi-cdi:hasRole": [
+        "Line segmentation interface",
+        "Transcription recording",
+        "PageXML export"
+      ]
+    },
+    {
+      "@id": "amsmb:tool_Kraken_blla",
+      "@type": "ddi-cdi:InstrumentProgram",
+      "schema:name": "Kraken blla segmentation model",
+      "schema:version": "5.2.5",
+      "schema:url": {
+        "@id": "https://kraken.re/main/index.html"
+      },
+      "dcterms:description": "Default baseline segmentation model (blla) bundled with Kraken 5.2.5 (released 2024-05-24, commit 31f195ea5aa2276d70cc7bdc1de0a52fc166b51a). Used for automatic detection of text line baselines in manuscript images prior to manual correction.",
+      "ddi-cdi:hasRole": [
+        "Automatic line detection"
+      ]
+    },
+    {
+      "@id": "amsmb:tool_PIL",
+      "@type": "ddi-cdi:InstrumentProgram",
+      "schema:name": "Pillow (PIL)",
+      "schema:version": "10.4.0",
+      "schema:url": {
+        "@id": "https://python-pillow.org/"
+      },
+      "dcterms:description": "Python imaging library (Python 3.12.10) used to programmatically convert high-resolution TIFF source files (up to 650MB) to JPEG format for compatibility with eScriptorium and dataset distribution.",
+      "ddi-cdi:hasRole": [
+        "TIFF to JPEG conversion"
+      ]
+    },
+    {
+      "@id": "amsmb:ProcessModel_AMSMB_HTR",
+      "@type": "ddi-cdi:Process",
+      "dcterms:title": "AMSMB HTR Dataset Creation Process",
+      "dcterms:description": "End-to-end provenance model for the creation of the AMSMB HTR dataset of 100 medieval notarial charters (1208–1499), from archival source selection to Dataverse publication.",
+      "ddi-cdi:has": [
+        {
+          "@id": "amsmb:Step01_ProjectDesign"
+        },
+        {
+          "@id": "amsmb:Step02_DatasetCuration"
+        },
+        {
+          "@id": "amsmb:Step03_Preprocessing"
+        },
+        {
+          "@id": "amsmb:Step04_Upload"
+        },
+        {
+          "@id": "amsmb:Step05_AutoSegmentation"
+        },
+        {
+          "@id": "amsmb:Step06_ManualCorrection"
+        },
+        {
+          "@id": "amsmb:Step07_Transcription"
+        },
+        {
+          "@id": "amsmb:Step08_SummaryCreation"
+        },
+        {
+          "@id": "amsmb:Step09_MetadataAnnotation"
+        },
+        {
+          "@id": "amsmb:Step10_DatasetValidation"
+        },
+        {
+          "@id": "amsmb:Step11_DatasetPublication"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:Collection_AMSMB_TIFFs",
+      "@type": [
+        "ddi-cdi:PhysicalDataSet",
+        "prov:Entity"
+      ],
+      "dcterms:title": "AMSMB digitized parchment collection (TIFF)",
+      "dcterms:description": "Annual digitization campaign by AMSMB/AMVD starting in the early 2000s, producing high-resolution TIFF images (up to 650MB each) of over 11,000 charters on parchment from the 13th to 15th centuries. The collection had been fully described using a bespoke cataloguing system since 1985. Not publicly accessible via web — access to the digitized images and catalogue was brokered by Coral Cuadrada through an institutional agreement with the de Sarriera family and the Arxiu Municipal de Vilassar de Dalt.",
+      "prov:wasAttributedTo": {
+        "@id": "amsmb:org_AMVD"
+      },
+      "prov:wasAssociatedWith": {
+        "@id": "https://orcid.org/0000-0003-4577-2381"
+      }
+    },
+    {
+      "@id": "amsmb:Step01_ProjectDesign",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Project design",
+      "prov:wasAssociatedWith": [
+        {
+          "@id": "https://orcid.org/0000-0001-8455-7196"
+        },
+        {
+          "@id": "https://orcid.org/0000-0003-4577-2381"
+        },
+        {
+          "@id": "https://orcid.org/0000-0003-1304-1939"
+        }
+      ],
+      "prov:generated": {
+        "@id": "amsmb:Output_ProjectDesign"
+      }
+    },
+    {
+      "@id": "amsmb:Output_ProjectDesign",
+      "@type": "prov:Entity",
+      "dcterms:title": "Project design and data strategy"
+    },
+    {
+      "@id": "amsmb:Step02_DatasetCuration",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Dataset curation",
+      "dcterms:description": "Selection of 100 representative digitized charters from the AMSMB parchment collection. Manuscripts were carefully sampled to represent the large variation present in the sources, stratifying across image quality, shape, preservation state, deterioration type, handwriting style, century, and document type. The selection covers at least 80 distinct hands across three centuries (1208–1499) and 29 legal document types. Access to the digitized TIFF collection and the archival catalogue was enabled by Coral Cuadrada through an institutional agreement with the AMSMB and AMVD.",
+      "ddi-cdi:follows": {
+        "@id": "amsmb:Step01_ProjectDesign"
+      },
+      "prov:wasAssociatedWith": [
+        {
+          "@id": "https://orcid.org/0000-0003-4577-2381"
+        },
+        {
+          "@id": "amsmb:person_MarcPrim"
+        },
+        {
+          "@id": "https://orcid.org/0000-0003-2099-3567"
+        },
+        {
+          "@id": "https://orcid.org/0000-0001-8455-7196"
+        }
+      ],
+      "prov:used": {
+        "@id": "amsmb:Collection_AMSMB_TIFFs"
+      },
+      "ddi-cdi:hasSamplingInformation": {
+        "@id": "amsmb:SamplingInfo_Curation"
+      },
+      "prov:generated": {
+        "@id": "amsmb:Output_100_selected_charters"
+      }
+    },
+    {
+      "@id": "amsmb:SamplingInfo_Curation",
+      "@type": "ddi-cdi:SamplingInformation",
+      "dcterms:title": "Stratified sampling criteria for charter selection",
+      "ddi-cdi:has": [
+        {
+          "@type": "ddi-cdi:SamplingProcedure",
+          "dcterms:description": "Image quality and shape: height-to-width ratios ranging from 0.46 to 1.46; number of lines per charter between 8 and 106."
+        },
+        {
+          "@type": "ddi-cdi:SamplingProcedure",
+          "dcterms:description": "Degree of preservation and deterioration types: holes, folds, stains, discoloured areas, ink loss or fading."
+        },
+        {
+          "@type": "ddi-cdi:SamplingProcedure",
+          "dcterms:description": "Handwriting style: at least 80 distinct known hands represented, plus several unknown hands."
+        },
+        {
+          "@type": "ddi-cdi:SamplingProcedure",
+          "dcterms:description": "Century coverage: 13th century (983 lines), 14th century (942 lines), 15th century (1444 lines)."
+        },
+        {
+          "@type": "ddi-cdi:SamplingProcedure",
+          "dcterms:description": "Document type coverage: 29 legal document types represented, from sales and inventories to last wills and marriage contracts."
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:Output_100_selected_charters",
+      "@type": [
+        "ddi-cdi:PhysicalDataSet",
+        "prov:Entity"
+      ],
+      "dcterms:title": "100 selected TIFF images of AMSMB charters",
+      "dcterms:description": "The 100 charters selected for the dataset, sourced from the AMSMB digitized TIFF collection. Split into train (60), validation (20) and test (20) subsets.",
+      "prov:wasDerivedFrom": {
+        "@id": "amsmb:Collection_AMSMB_TIFFs"
+      }
+    },
+    {
+      "@id": "amsmb:Step03_Preprocessing",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Preprocessing",
+      "dcterms:description": "Programmatic conversion of high-resolution TIFF source files to JPEG format using the Pillow (PIL) Python library. Required due to the large size of TIFF files (up to 650MB each), which exceeded the file size limits of eScriptorium and standard dataset distribution formats.",
+      "ddi-cdi:follows": {
+        "@id": "amsmb:Step02_DatasetCuration"
+      },
+      "prov:wasAssociatedWith": {
+        "@id": "https://orcid.org/0000-0001-8455-7196"
+      },
+      "prov:used": [
+        {
+          "@id": "amsmb:Output_100_selected_charters"
+        },
+        {
+          "@id": "amsmb:tool_PIL"
+        }
+      ],
+      "prov:generated": {
+        "@id": "amsmb:Output_100_JPEGs"
+      }
+    },
+    {
+      "@id": "amsmb:Output_100_JPEGs",
+      "@type": [
+        "ddi-cdi:PhysicalDataSet",
+        "prov:Entity"
+      ],
+      "dcterms:title": "100 JPEG images of AMSMB charters",
+      "dcterms:format": "image/jpeg",
+      "prov:wasDerivedFrom": {
+        "@id": "amsmb:Output_100_selected_charters"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "https://orcid.org/0000-0001-8455-7196"
+      }
+    },
+    {
+      "@id": "amsmb:Step04_Upload",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Upload to eScriptorium",
+      "dcterms:description": "Upload of the 100 JPEG images to a locally installed instance of eScriptorium (version 0.14.2) at the Barcelona Supercomputing Center. This registered the images in the transcription platform and prepared them for automatic line segmentation.",
+      "ddi-cdi:follows": {
+        "@id": "amsmb:Step03_Preprocessing"
+      },
+      "prov:wasAssociatedWith": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      },
+      "prov:used": [
+        {
+          "@id": "amsmb:Output_100_JPEGs"
+        },
+        {
+          "@id": "amsmb:tool_eScriptorium"
+        }
+      ],
+      "prov:generated": {
+        "@id": "amsmb:Output_eScriptorium_registered"
+      }
+    },
+    {
+      "@id": "amsmb:Output_eScriptorium_registered",
+      "@type": [
+        "ddi-cdi:LogicalRecord",
+        "prov:Entity"
+      ],
+      "dcterms:title": "100 images registered in eScriptorium (local BSC instance)",
+      "dcterms:description": "Images loaded into the local eScriptorium instance at BSC, ready for segmentation. The local installation was set up and maintained by Joan Giner (senior research engineer at BSC).",
+      "prov:wasDerivedFrom": {
+        "@id": "amsmb:Output_100_JPEGs"
+      }
+    },
+    {
+      "@id": "amsmb:Step05_AutoSegmentation",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Automatic line segmentation",
+      "dcterms:description": "Automatic detection of text line baselines in the 100 manuscript images using the default blla segmentation model provided by Kraken via eScriptorium. Produced an initial set of candidate line segments with polygon coordinates and baselines for each image.",
+      "ddi-cdi:follows": {
+        "@id": "amsmb:Step04_Upload"
+      },
+      "prov:wasAssociatedWith": [
+        {
+          "@id": "https://orcid.org/0000-0003-2099-3567"
+        },
+        {
+          "@id": "https://orcid.org/0000-0001-8455-7196"
+        }
+      ],
+      "prov:used": [
+        {
+          "@id": "amsmb:Output_eScriptorium_registered"
+        },
+        {
+          "@id": "amsmb:tool_Kraken_blla"
+        },
+        {
+          "@id": "amsmb:tool_eScriptorium"
+        }
+      ],
+      "prov:generated": {
+        "@id": "amsmb:Output_CandidateSegments"
+      }
+    },
+    {
+      "@id": "amsmb:Output_CandidateSegments",
+      "@type": [
+        "ddi-cdi:LogicalRecord",
+        "prov:Entity"
+      ],
+      "dcterms:title": "3369 candidate line segments (unvalidated)",
+      "dcterms:description": "Automatically detected text line segments with polygon coordinates and baselines. Includes DefaultLine and InterlinearLine types per the simplified SegmOnto vocabulary. Not yet validated — subject to manual correction in the next step.",
+      "prov:wasDerivedFrom": {
+        "@id": "amsmb:Output_eScriptorium_registered"
+      }
+    },
+    {
+      "@id": "amsmb:Step06_ManualCorrection",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Manual line correction",
+      "dcterms:description": "Manual review and correction of the automatically detected line segments using eScriptorium. Corrections addressed segmentation errors caused by physical deterioration of the parchment (holes, folds, stains) and complex layout features including DropCapitalZone, GraphicZone:Signum (notarial cross-signatures) and InterlinearLine elements. Lines separated by large gaps or holes were split into two segments. Cross-signature signs (Signum) were also used as line split points.",
+      "ddi-cdi:follows": {
+        "@id": "amsmb:Step05_AutoSegmentation"
+      },
+      "prov:wasAssociatedWith": [
+        {
+          "@id": "https://orcid.org/0000-0003-2099-3567"
+        },
+        {
+          "@id": "https://orcid.org/0000-0001-8455-7196"
+        }
+      ],
+      "prov:used": [
+        {
+          "@id": "amsmb:Output_CandidateSegments"
+        },
+        {
+          "@id": "amsmb:tool_eScriptorium"
+        }
+      ],
+      "prov:generated": {
+        "@id": "amsmb:Output_ValidatedSegments"
+      }
+    },
+    {
+      "@id": "amsmb:Output_ValidatedSegments",
+      "@type": [
+        "ddi-cdi:LogicalRecord",
+        "prov:Entity"
+      ],
+      "dcterms:title": "3369 validated line segments",
+      "dcterms:description": "Manually reviewed and corrected line segments. Regions classified using a simplified SegmOnto vocabulary: MainZone, MarginTextZone, DropCapitalZone, GraphicZone:Signum, GraphicZone:Other. Line types: DefaultLine and InterlinearLine.",
+      "prov:wasDerivedFrom": {
+        "@id": "amsmb:Output_CandidateSegments"
+      }
+    },
+    {
+      "@id": "amsmb:Step07_Transcription",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Transcription",
+      "dcterms:description": "Manual transcription of the 3369 validated line segments by expert paleographer Ramon Sarobe, following a semi-diplomatic approach documented in the transcription guidelines. Transcriptions were recorded in eScriptorium and exported as PageXML files. The corpus is written primarily in Medieval Latin with fragments in Medieval Catalan.",
+      "ddi-cdi:follows": {
+        "@id": "amsmb:Step06_ManualCorrection"
+      },
+      "prov:wasAssociatedWith": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      },
+      "prov:used": [
+        {
+          "@id": "amsmb:Output_ValidatedSegments"
+        },
+        {
+          "@id": "amsmb:tool_eScriptorium"
+        }
+      ],
+      "prov:hadPlan": {
+        "@id": "amsmb:Plan_TranscriptionGuidelines"
+      },
+      "prov:generated": {
+        "@id": "amsmb:Output_100_PageXMLs"
+      }
+    },
+    {
+      "@id": "amsmb:Plan_TranscriptionGuidelines",
+      "@type": [
+        "prov:Plan",
+        "ddi-cdi:ProcessPattern"
+      ],
+      "dcterms:title": "Semi-diplomatic transcription guidelines",
+      "dcterms:description": "Transcription rules authored by Ramon Sarobe for the semi-diplomatic treatment of Medieval Latin and Catalan manuscript text. Designed to balance readability and machine-actionability while preserving philological accuracy.",
+      "ddi-cdi:has": [
+        {
+          "@type": "ddi-cdi:ProcessStep",
+          "dcterms:title": "Rule 1 — Allograph reduction",
+          "dcterms:description": "Variants of the same letter (allographs) are reduced to their underlying grapheme. In Latin: long 'i' (resembling 'j') transcribed as 'i'; 'v' and 'u' regularized by convention. In Catalan: 'i'/'j' and 'u'/'v' are two distinct graphemes and transcribed as such."
+        },
+        {
+          "@type": "ddi-cdi:ProcessStep",
+          "dcterms:title": "Rule 2 — Spelling irregularities",
+          "dcterms:description": "Grammatical or spelling irregularities are retained. Exceptions: standard criteria applied for punctuation, capitalization, diacritics and apostrophes; double 'f' at the beginning of a Latin word reduced to single 'f'; 'Signum' (and variants such as Sig+num, Sig++na) always capitalized."
+        },
+        {
+          "@type": "ddi-cdi:ProcessStep",
+          "dcterms:title": "Rule 3 — Proper names",
+          "dcterms:description": "Proper names are not translated and are transcribed as they appear in the manuscript (capitalized), respecting original white spaces and spelling irregularities (except initial double 'f'). Non-standard word separations are respected. Example: 'Fontisrubei' retained instead of modern Catalan toponym 'Font-Rubí'."
+        },
+        {
+          "@type": "ddi-cdi:ProcessStep",
+          "dcterms:title": "Rule 4 — Abbreviations and symbols",
+          "dcterms:description": "Abbreviations and symbols are resolved to the full form of the word, with the exception of abbreviated first names (not resolved). Example: 'novint' resolved to 'noverint'; 'B.' not resolved to full name (typically Bernardus or Berengarius)."
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:Output_100_PageXMLs",
+      "@type": [
+        "ddi-cdi:PhysicalDataSet",
+        "prov:Entity"
+      ],
+      "dcterms:title": "100 PageXML transcription files",
+      "dcterms:format": "application/xml",
+      "dcterms:description": "PageXML files generated by eScriptorium (version 0.14.2), one per charter. Each file encodes the physical page layout (polygon coordinates and baselines per line) and the corresponding transcribed text (Unicode). Contains 3369 transcription lines in total.",
+      "prov:wasDerivedFrom": {
+        "@id": "amsmb:Output_ValidatedSegments"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      }
+    },
+    {
+      "@id": "amsmb:Step08_SummaryCreation",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Summary creation",
+      "dcterms:description": "Authorship of contemporary Catalan summaries for each of the 100 charters by Ramon Sarobe, derived from the transcription work. Each summary describes the legal act recorded in the charter, identifying the parties involved and the nature of the transaction. Summaries are stored in amsmb_metadata_with_summaries.json.",
+      "ddi-cdi:follows": {
+        "@id": "amsmb:Step07_Transcription"
+      },
+      "prov:wasAssociatedWith": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      },
+      "prov:used": {
+        "@id": "amsmb:Output_100_PageXMLs"
+      },
+      "prov:generated": {
+        "@id": "amsmb:Output_Summaries"
+      }
+    },
+    {
+      "@id": "amsmb:Output_Summaries",
+      "@type": [
+        "ddi-cdi:PhysicalDataSet",
+        "prov:Entity"
+      ],
+      "dcterms:title": "amsmb_metadata_with_summaries.json",
+      "dcterms:format": "application/json",
+      "dcterms:language": "ca",
+      "dcterms:description": "JSON file containing one record per charter with archival metadata fields and a contemporary Catalan summary (dcterms:abstract) authored by Ramon Sarobe. 100 records total.",
+      "prov:wasDerivedFrom": {
+        "@id": "amsmb:Output_100_PageXMLs"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      }
+    },
+    {
+      "@id": "amsmb:Step09_MetadataAnnotation",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Metadata annotation",
+      "dcterms:description": "Creation of the archival metadata CSV file by Ramon Sarobe. For each of the 100 charters, the following fields were contributed from expert paleographic knowledge: year of writing (date), name of the scrivener or notary (scrivener/notary), and legal document type (type). Remaining fields (reference, split, archive, signature, material, folder) were derived from the archival catalogue.",
+      "ddi-cdi:follows": {
+        "@id": "amsmb:Step07_Transcription"
+      },
+      "prov:wasAssociatedWith": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      },
+      "prov:used": {
+        "@id": "amsmb:Output_100_PageXMLs"
+      },
+      "prov:generated": {
+        "@id": "amsmb:Output_MetadataCSV"
+      }
+    },
+    {
+      "@id": "amsmb:Output_MetadataCSV",
+      "@type": [
+        "ddi-cdi:PhysicalDataSet",
+        "prov:Entity"
+      ],
+      "dcterms:title": "metadata.csv",
+      "dcterms:format": "text/csv",
+      "dcterms:description": "CSV file with one row per charter (100 rows). Fields: reference, split, date, archive, signature, scrivener/notary, type, material, folder. The 'type' field maps to the ConceptualDomain of 29 legal document types.",
+      "prov:wasDerivedFrom": {
+        "@id": "amsmb:Output_100_PageXMLs"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      }
+    },
+    {
+      "@id": "amsmb:Step10_DatasetValidation",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Dataset validation",
+      "ddi-cdi:follows": [
+        {
+          "@id": "amsmb:Step08_SummaryCreation"
+        },
+        {
+          "@id": "amsmb:Step09_MetadataAnnotation"
+        }
+      ],
+      "prov:wasAssociatedWith": [
+        {
+          "@id": "https://orcid.org/0000-0001-8455-7196"
+        },
+        {
+          "@id": "https://orcid.org/0000-0002-6161-2452"
+        }
+      ],
+      "prov:used": [
+        {
+          "@id": "amsmb:Output_100_JPEGs"
+        },
+        {
+          "@id": "amsmb:Output_100_PageXMLs"
+        },
+        {
+          "@id": "amsmb:Output_MetadataCSV"
+        },
+        {
+          "@id": "amsmb:Output_Summaries"
+        }
+      ],
+      "prov:generated": {
+        "@id": "amsmb:Output_ValidatedDataset"
+      }
+    },
+    {
+      "@id": "amsmb:Output_ValidatedDataset",
+      "@type": [
+        "ddi-cdi:DataSet",
+        "prov:Entity"
+      ],
+      "dcterms:title": "Validated AMSMB HTR dataset",
+      "prov:wasDerivedFrom": [
+        {
+          "@id": "amsmb:Output_100_JPEGs"
+        },
+        {
+          "@id": "amsmb:Output_100_PageXMLs"
+        },
+        {
+          "@id": "amsmb:Output_MetadataCSV"
+        },
+        {
+          "@id": "amsmb:Output_Summaries"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:Step11_DatasetPublication",
+      "@type": [
+        "ddi-cdi:ProcessStep",
+        "prov:Activity"
+      ],
+      "dcterms:title": "Dataset publication",
+      "dcterms:description": "Deposit of the complete dataset on the BSC Dataverse instance, ensuring FAIR principles compliance (Findable, Accessible, Interoperable, Reusable). The deposit includes 100 JPEG images, 100 PageXML files, metadata.csv, and a README.md. Published under CC BY-SA 4.0 license.",
+      "ddi-cdi:follows": {
+        "@id": "amsmb:Step10_DatasetValidation"
+      },
+      "prov:wasAssociatedWith": [
+        {
+          "@id": "https://orcid.org/0000-0003-3964-9686"
+        },
+        {
+          "@id": "https://orcid.org/0009-0009-3108-380X"
+        },
+        {
+          "@id": "amsmb:org_BSC"
+        }
+      ],
+      "prov:used": {
+        "@id": "amsmb:Output_ValidatedDataset"
+      },
+      "prov:generated": {
+        "@id": "amsmb:Output_DataverseDeposit"
+      }
+    },
+    {
+      "@id": "amsmb:Output_DataverseDeposit",
+      "@type": [
+        "ddi-cdi:DataStore",
+        "prov:Entity"
+      ],
+      "dcterms:title": "AMSMB HTR Dataset — BSC Dataverse deposit",
+      "dcterms:identifier": "https://dataverse.bsc.es/citation?persistentId=perma:BSC/0VB0MC",
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "dcterms:publisher": {
+        "@id": "amsmb:org_BSC"
+      },
+      "schema:version": "V1",
+      "dcterms:description": "Published dataset containing 100 JPEG images, 100 PageXML transcription files, metadata.csv, and README.md. Total size 342MB. Split into train (60), validation (20) and test (20) subsets.",
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step11_DatasetPublication"
+      }
+    },
+    {
+      "@id": "amsmb:VariableLayer",
+      "@type": "ddi-cdi:VariableScheme",
+      "dcterms:title": "AMSMB HTR Dataset — Variable Description Layer",
+      "dcterms:description": "Full semantic description of all variables in the AMSMB HTR dataset, covering the 9 columns of metadata.csv and the dcterms:abstract summary field. Each variable is described at three levels: ConceptualVariable (what it means), RepresentedVariable (how it is encoded), and InstanceVariable (where it lives in the dataset).",
+      "ddi-cdi:has": [
+        {
+          "@id": "amsmb:IV_Reference"
+        },
+        {
+          "@id": "amsmb:IV_Split"
+        },
+        {
+          "@id": "amsmb:IV_Date"
+        },
+        {
+          "@id": "amsmb:IV_Archive"
+        },
+        {
+          "@id": "amsmb:IV_Signature"
+        },
+        {
+          "@id": "amsmb:IV_Notary"
+        },
+        {
+          "@id": "amsmb:IV_Type"
+        },
+        {
+          "@id": "amsmb:IV_Material"
+        },
+        {
+          "@id": "amsmb:IV_Folder"
+        },
+        {
+          "@id": "amsmb:IV_Abstract"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:CV_Reference",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Archival identifier of a charter",
+      "dcterms:description": "The unique identifier that unambiguously designates a specific charter within the dataset. Composed of the archive acronym and the manuscript signature, separated by an underscore. Designed to be globally unique across archive collections and to function as the primary key linking all dataset files (JPEG image, PageXML transcription, CSV metadata row)."
+    },
+    {
+      "@id": "amsmb:RV_Reference",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Reference — string identifier",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Reference"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:TextRepresentation",
+        "dcterms:description": "String. Format: {ARCHIVE_ACRONYM}_{SIGNATURE}. Example: AMSMB_1-1-17. Derived from the concatenation of the 'archive' and 'signature' fields. No missing values — every charter has a unique reference."
+      }
+    },
+    {
+      "@id": "amsmb:IV_Reference",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "reference (metadata.csv)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Reference"
+      },
+      "ddi-cdi:correspondsTo": {
+        "@id": "amsmb:Component_Reference"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step08_MetadataAnnotation"
+      },
+      "ddi-cdi:note": "Primary key. Also used as the filename stem for the corresponding JPEG and PageXML files (e.g. AMSMB_1-1-17.jpg, AMSMB_1-1-17.xml)."
+    },
+    {
+      "@id": "amsmb:CV_Split",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Machine learning dataset partition",
+      "dcterms:description": "The partition of the dataset to which a charter belongs for the purposes of training, validating, and testing handwritten text recognition models. Partitioning was performed at the document level to minimise the presence of lines written by the same hand across different splits."
+    },
+    {
+      "@id": "amsmb:CD_Split",
+      "@type": [
+        "ddi-cdi:ConceptualDomain",
+        "skos:ConceptScheme"
+      ],
+      "dcterms:title": "ML split categories",
+      "owl:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q3985153"
+      },
+      "skos:hasTopConcept": [
+        {
+          "@id": "amsmb:cat_split_train"
+        },
+        {
+          "@id": "amsmb:cat_split_validation"
+        },
+        {
+          "@id": "amsmb:cat_split_test"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:cat_split_train",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "train",
+        "@language": "en"
+      },
+      "dcterms:description": "60 charters (2067 lines). Used for model training.",
+      "skos:exactMatch": {
+        "@id": "https://www.wikidata.org/wiki/Q3997298"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:CD_Split"
+      }
+    },
+    {
+      "@id": "amsmb:cat_split_validation",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "validation",
+        "@language": "en"
+      },
+      "dcterms:description": "20 charters (661 lines). Used for hyperparameter tuning.",
+      "skos:inScheme": {
+        "@id": "amsmb:CD_Split"
+      }
+    },
+    {
+      "@id": "amsmb:cat_split_test",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "test",
+        "@language": "en"
+      },
+      "dcterms:description": "20 charters (641 lines). Used for final evaluation.",
+      "skos:inScheme": {
+        "@id": "amsmb:CD_Split"
+      }
+    },
+    {
+      "@id": "amsmb:RV_Split",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Split — controlled vocabulary",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Split"
+      },
+      "ddi-cdi:isDefinedBy": {
+        "@id": "amsmb:CD_Split"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:CodeRepresentation",
+        "dcterms:description": "String. Controlled vocabulary of 3 values: 'train', 'validation', 'test'. No missing values."
+      }
+    },
+    {
+      "@id": "amsmb:IV_Split",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "split (metadata.csv)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Split"
+      },
+      "ddi-cdi:correspondsTo": {
+        "@id": "amsmb:Component_Split"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step09_DatasetPublication"
+      },
+      "ddi-cdi:note": "Partition assigned by Mariona Coll Ardanuy and Iban Berganzo-Besga during dataset validation. For full details on the partitioning strategy see Section 3.4 of Coll Ardanuy et al. (2025)."
+    },
+    {
+      "@id": "amsmb:CV_Date",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Year of writing of a notarial charter",
+      "dcterms:description": "The calendar year in which the notarial charter was written and authenticated. In notarial documents of the medieval Crown of Aragon, the date is expressed as a standardized Latin date expression using the Roman calendar system (Kalends, Nones, Ides) combined with the year in the Anno Domini reckoning using Roman numerals. Example: 'Vº kalendas madii, anno Domini millesimo CCº XXXº tercio' = 28 April 1233. The complete date (day and month) may be present in the original manuscript and in the PageXML transcription. Only the year is extracted in this variable."
+    },
+    {
+      "@id": "amsmb:RV_Date",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Date — integer year",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Date"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:NumericRepresentation",
+        "dcterms:description": "Integer. Range: 1208–1499. Represents the year of writing in the proleptic Gregorian calendar. Derived by Ramon Sarobe from the standardized Latin date expression during metadata annotation.",
+        "ddi-cdi:minimumValue": 1208,
+        "ddi-cdi:maximumValue": 1499
+      },
+      "ddi-cdi:note": "The complete date (day and month) may be present in the original manuscript and in the PageXML transcription files but was not extracted into this variable. Researchers requiring day-level temporal precision should consult the corresponding PageXML file via the hasLogicalAnnotation link on each InstanceValue node."
+    },
+    {
+      "@id": "amsmb:IV_Date",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "date (metadata.csv)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Date"
+      },
+      "ddi-cdi:correspondsTo": {
+        "@id": "amsmb:Component_Date"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step08_MetadataAnnotation"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      }
+    },
+    {
+      "@id": "amsmb:CV_Archive",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Custodian archive of a charter",
+      "dcterms:description": "The archive institution that holds the physical charter and made it available for digitization. Identifies the provenance and custody chain of the physical document."
+    },
+    {
+      "@id": "amsmb:CD_Archive",
+      "@type": [
+        "ddi-cdi:ConceptualDomain",
+        "skos:ConceptScheme"
+      ],
+      "dcterms:title": "Archive institutions",
+      "dcterms:description": "Controlled vocabulary of archive institutions. Currently contains one entry (AMSMB). Designed to be extended as documents from other archives are added to the dataset.",
+      "skos:hasTopConcept": [
+        {
+          "@id": "amsmb:cat_archive_AMSMB"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:cat_archive_AMSMB",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "AMSMB",
+        "@language": "en"
+      },
+      "dcterms:description": "Archive of the Marquises of Santa Maria de Barberà, Vilassar de Dalt, Catalonia.",
+      "owl:sameAs": {
+        "@id": "amsmb:org_AMSMB"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:CD_Archive"
+      }
+    },
+    {
+      "@id": "amsmb:RV_Archive",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Archive — controlled vocabulary linked to organization",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Archive"
+      },
+      "ddi-cdi:isDefinedBy": {
+        "@id": "amsmb:CD_Archive"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:CodeRepresentation",
+        "dcterms:description": "String acronym. Controlled vocabulary linked via owl:sameAs to the corresponding Organization node. Currently only 'AMSMB'. No missing values."
+      }
+    },
+    {
+      "@id": "amsmb:IV_Archive",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "archive (metadata.csv)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Archive"
+      },
+      "ddi-cdi:correspondsTo": {
+        "@id": "amsmb:Component_Archive"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step08_MetadataAnnotation"
+      }
+    },
+    {
+      "@id": "amsmb:CV_Signature",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Shelfmark (signatura topogràfica) of a charter within its custodian archive",
+      "dcterms:description": "The shelfmark — known in Catalan archival practice as 'signatura topogràfica' — is the local identifier assigned to the physical charter within the AMSMB archive's cataloguing system. It encodes the hierarchical physical location of the document: drawer, folder, and charter number, separated by hyphens. The drawer component may be numeric (e.g. '7') or alphanumeric (e.g. 'C1'). Examples: '1-1-17' (drawer 1, folder 1, charter 17), 'C1-F1-09' (drawer C1, folder F1, charter 09), 'C1-F14-55' (drawer C1, folder F14, charter 55). Combined with the archive acronym it forms the global reference identifier."
+    },
+    {
+      "@id": "amsmb:RV_Signature",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Signature — alphanumeric string",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Signature"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:TextRepresentation",
+        "dcterms:description": "String. Hyphen-separated code encoding drawer, folder and charter number. Drawer may be numeric (e.g. '7') or alphanumeric (e.g. 'C1'). Examples: '1-1-17', 'C1-F1-09', 'C1-F14-55'. Local to the AMSMB archive cataloguing system. No missing values."
+      }
+    },
+    {
+      "@id": "amsmb:IV_Signature",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "signature (metadata.csv)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Signature"
+      },
+      "ddi-cdi:correspondsTo": {
+        "@id": "amsmb:Component_Signature"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step08_MetadataAnnotation"
+      }
+    },
+    {
+      "@id": "amsmb:sentinel_SineNomine",
+      "@type": "ddi-cdi:SentinelValue",
+      "ddi-cdi:content": "s.n.",
+      "dcterms:description": "Standard Latin archival notation 'sine nomine' (without name). Used when the identity of the notary or scrivener who wrote the charter cannot be determined from the document itself or from the archival record.",
+      "skos:notation": "s.n.",
+      "owl:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q257086"
+      }
+    },
+    {
+      "@id": "amsmb:CD_Notary",
+      "@type": "ddi-cdi:SentinelConceptualDomain",
+      "dcterms:title": "Notary name domain with sine nomine sentinel",
+      "dcterms:description": "Free-text domain for notary and scrivener names, with a declared sentinel value for unknown or unattributed authorship. Names are transcribed as they appear in the manuscript by Ramon Sarobe, with standard capitalization. Spelling variants of the same name are not normalized.",
+      "ddi-cdi:hasSentinelValue": {
+        "@id": "amsmb:sentinel_SineNomine"
+      }
+    },
+    {
+      "@id": "amsmb:CV_Notary",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Name of the notary or scrivener of a charter",
+      "dcterms:description": "The personal name of the legal professional (notary or scrivener) responsible for writing and authenticating the charter. In medieval notarial practice, the notary's identity is attested by their personal Signum (cross-signature) and by the subscription formula at the end of the document. In 8 cases in this dataset the notary cannot be identified and is recorded as 's.n.' (sine nomine)."
+    },
+    {
+      "@id": "amsmb:RV_Notary",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Scrivener/notary — free text with sentinel",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Notary"
+      },
+      "ddi-cdi:isDefinedBy": {
+        "@id": "amsmb:CD_Notary"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:TextRepresentation",
+        "dcterms:description": "String. Free text. Names transcribed as they appear in the manuscript (capitalized). Sentinel value 's.n.' for unknown notaries (8 occurrences). Spelling variants of the same name across different charters are not normalized in this version of the dataset."
+      }
+    },
+    {
+      "@id": "amsmb:IV_Notary",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "scrivener/notary (metadata.csv)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Notary"
+      },
+      "ddi-cdi:correspondsTo": {
+        "@id": "amsmb:Component_Notary"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step08_MetadataAnnotation"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      }
+    },
+    {
+      "@id": "amsmb:CV_Type",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Legal nature of a notarial charter",
+      "dcterms:description": "The type of legal act recorded in the charter, determined by its content and formal structure. Classified by Ramon Sarobe according to standard medieval diplomatic typology. 29 distinct types are represented in this dataset, ranging from property transfers (Venda, Permuta, Donació) to personal obligations (Homenatge, Jurament) and testamentary acts (Testament, Clàusula testamentària)."
+    },
+    {
+      "@id": "amsmb:RV_Type",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Type — controlled vocabulary (29 categories)",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Type"
+      },
+      "ddi-cdi:isDefinedBy": {
+        "@id": "amsmb:ConceptualDomain_DocumentTypes"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:CodeRepresentation",
+        "dcterms:description": "String in Catalan. Controlled vocabulary of 29 legal document types defined in ConceptualDomain_DocumentTypes. No missing values."
+      }
+    },
+    {
+      "@id": "amsmb:IV_Type",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "type (metadata.csv)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Type"
+      },
+      "ddi-cdi:correspondsTo": {
+        "@id": "amsmb:Component_Type"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step08_MetadataAnnotation"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
+      },
+      "ddi-cdi:note": "Future work: ontological alignment of the 29 categories to Getty AAT, CIDOC-CRM or a domain-specific medieval diplomatic vocabulary is planned."
+    },
+    {
+      "@id": "amsmb:CD_Material",
+      "@type": [
+        "ddi-cdi:ConceptualDomain",
+        "skos:ConceptScheme"
+      ],
+      "dcterms:title": "Writing support material",
+      "dcterms:description": "Controlled vocabulary of writing support materials. Currently contains 'parchment' only, as all 100 charters in this dataset are written on parchment. Designed to be extended with 'paper' and other materials as documents from broader collections are added.",
+      "skos:hasTopConcept": [
+        {
+          "@id": "amsmb:cat_material_parchment"
+        },
+        {
+          "@id": "amsmb:cat_material_paper"
+        }
+      ]
+    },
+    {
+      "@id": "amsmb:cat_material_parchment",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "parchment",
+        "@language": "en"
+      },
+      "dcterms:description": "Animal skin processed for writing. Used for all 100 charters in this dataset.",
+      "owl:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q226697"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:CD_Material"
+      }
+    },
+    {
+      "@id": "amsmb:cat_material_paper",
+      "@type": [
+        "ddi-cdi:Category",
+        "skos:Concept"
+      ],
+      "skos:prefLabel": {
+        "@value": "paper",
+        "@language": "en"
+      },
+      "dcterms:description": "Paper writing support. Not present in this dataset version. Declared for extensibility — notarial protocols (drafts) in the broader AMSMB collection are written on paper.",
+      "owl:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q11472"
+      },
+      "skos:inScheme": {
+        "@id": "amsmb:CD_Material"
+      }
+    },
+    {
+      "@id": "amsmb:CV_Material",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Writing support material of a charter",
+      "dcterms:description": "The physical material on which the charter text is written. Relevant for preservation assessment, digitization parameters, and palaeographic analysis. All charters in this dataset are on parchment (animal skin), which were the formal copies delivered to clients. Notarial protocols (drafts) kept by the notary were written on paper and are not included in this dataset."
+    },
+    {
+      "@id": "amsmb:RV_Material",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Material — controlled vocabulary",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Material"
+      },
+      "ddi-cdi:isDefinedBy": {
+        "@id": "amsmb:CD_Material"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:CodeRepresentation",
+        "dcterms:description": "String. Controlled vocabulary: 'parchment' or 'paper'. All 100 values in this dataset are 'parchment'. No missing values."
+      }
+    },
+    {
+      "@id": "amsmb:IV_Material",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "material (metadata.csv)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Material"
+      },
+      "ddi-cdi:correspondsTo": {
+        "@id": "amsmb:Component_Material"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step08_MetadataAnnotation"
+      }
+    },
+    {
+      "@id": "amsmb:CV_Folder",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Physical storage folder in the AMSMB archive",
+      "dcterms:description": "The physical folder within the AMSMB archive where the charter is currently stored. Represents the coarse-grained physical location of the document within the archive's storage system, at a level above the individual manuscript signature."
+    },
+    {
+      "@id": "amsmb:RV_Folder",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Folder — alphanumeric string",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Folder"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:TextRepresentation",
+        "dcterms:description": "String. Alphanumeric folder code, e.g. 'F1', 'E4'. Local to the AMSMB archive. No missing values."
+      }
+    },
+    {
+      "@id": "amsmb:IV_Folder",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "folder (metadata.csv)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Folder"
+      },
+      "ddi-cdi:correspondsTo": {
+        "@id": "amsmb:Component_Folder"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step08_MetadataAnnotation"
+      }
+    },
+    {
+      "@id": "amsmb:CV_Abstract",
+      "@type": "ddi-cdi:ConceptualVariable",
+      "dcterms:title": "Documentary summary of a charter",
+      "dcterms:description": "A prose summary describing the legal act recorded in the charter: the parties involved, the nature of the transaction, and the key terms. Written in contemporary standard Catalan by Ramon Sarobe based on his paleographic reading of the full transcription. Designed to make the content of each charter accessible to researchers without requiring knowledge of Medieval Latin or Catalan."
+    },
+    {
+      "@id": "amsmb:CD_Abstract",
+      "@type": "ddi-cdi:ConceptualDomain",
+      "dcterms:title": "Free text domain — contemporary Catalan summaries",
+      "dcterms:description": "Uncontrolled free text domain. Language: contemporary Catalan (ca). Variable length. No sentinel values declared."
+    },
+    {
+      "@id": "amsmb:RV_Abstract",
+      "@type": "ddi-cdi:RepresentedVariable",
+      "dcterms:title": "Summary — free text in contemporary Catalan",
+      "ddi-cdi:isConceptualizedBy": {
+        "@id": "amsmb:CV_Abstract"
+      },
+      "ddi-cdi:isDefinedBy": {
+        "@id": "amsmb:CD_Abstract"
+      },
+      "ddi-cdi:hasRepresentation": {
+        "@type": "ddi-cdi:TextRepresentation",
+        "dcterms:language": "ca",
+        "dcterms:description": "Free text string in contemporary Catalan. One summary per charter. Variable length (typically 1–4 sentences). Stored as dcterms:abstract on each InstanceValue node in amsmb_charters_summaries.jsonld."
+      }
+    },
+    {
+      "@id": "amsmb:IV_Abstract",
+      "@type": "ddi-cdi:InstanceVariable",
+      "dcterms:title": "dcterms:abstract / summary (amsmb_charters_summaries.jsonld)",
+      "ddi-cdi:isRepresentedBy": {
+        "@id": "amsmb:RV_Abstract"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_SummaryCreation"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "https://orcid.org/0000-0003-2099-3567"
       }
     }
   ]
