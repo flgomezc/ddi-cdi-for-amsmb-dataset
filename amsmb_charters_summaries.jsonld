@@ -1,0 +1,2816 @@
+{
+  "@context": [
+    "https://ddi-cdi.github.io/ddi-cdi_v1.0/encoding/json-ld/ddi-cdi.jsonld",
+    {
+      "skos": "http://www.w3.org/2004/02/skos/core#",
+      "prov": "http://www.w3.org/ns/prov#",
+      "schema": "https://schema.org/",
+      "dcterms": "http://purl.org/dc/terms/",
+      "owl": "http://www.w3.org/2002/07/owl#",
+      "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "amsmb": "https://dataverse.bsc.es/dataset.xhtml?persistentId=perma:BSC/0VB0MC#"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-09",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-09",
+      "amsmb:split": "train",
+      "amsmb:date": 1304,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-09",
+      "amsmb:notary": "Pere Pometa",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Permuta"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/819"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/817"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-12",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-12",
+      "amsmb:split": "train",
+      "amsmb:date": 1439,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-12",
+      "amsmb:notary": "Arnau d'Illes",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/880"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/836"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-17",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-17",
+      "amsmb:split": "test",
+      "amsmb:date": 1351,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-17",
+      "amsmb:notary": "Berenguer Mata",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Infeudacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/894"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/828"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-18",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-18",
+      "amsmb:split": "validation",
+      "amsmb:date": 1433,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-18",
+      "amsmb:notary": "Jaume Maimó (àlies Talamanca)",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Homenatge"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/772"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/901"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-22",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-22",
+      "amsmb:split": "train",
+      "amsmb:date": 1297,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-22",
+      "amsmb:notary": "Jaume de Trilla",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Afranquiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/848"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/756"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-24",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-24",
+      "amsmb:split": "train",
+      "amsmb:date": 1411,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-24",
+      "amsmb:notary": "Arnau de Lledó",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Infeudacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/859"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/759"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-29",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-29",
+      "amsmb:split": "train",
+      "amsmb:date": 1405,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-29",
+      "amsmb:notary": "Guillem de Lledó",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Jurament"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/808"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/816"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-41",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-41",
+      "amsmb:split": "test",
+      "amsmb:date": 1406,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-41",
+      "amsmb:notary": "Jaume Ripoll",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/841"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/785"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-43",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-43",
+      "amsmb:split": "train",
+      "amsmb:date": 1451,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-43",
+      "amsmb:notary": "s.n.",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/822"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/781"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F1-45",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F1-45",
+      "amsmb:split": "validation",
+      "amsmb:date": 1451,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F1-45",
+      "amsmb:notary": "s.n.",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Confirmacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/744"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/754"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-04",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-04",
+      "amsmb:split": "validation",
+      "amsmb:date": 1448,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-04",
+      "amsmb:notary": "Jaume Mateu",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/853"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/783"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-06",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-06",
+      "amsmb:split": "train",
+      "amsmb:date": 1430,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-06",
+      "amsmb:notary": "s.n.",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/837"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/823"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-15",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-15",
+      "amsmb:split": "validation",
+      "amsmb:date": 1377,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-15",
+      "amsmb:notary": "Guillem Guerau",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/765"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/885"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-19",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-19",
+      "amsmb:split": "test",
+      "amsmb:date": 1441,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-19",
+      "amsmb:notary": "Bernat Julià",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/839"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/789"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-20",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-20",
+      "amsmb:split": "validation",
+      "amsmb:date": 1386,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-20",
+      "amsmb:notary": "Guillem Gocet",
+      "amsmb:type": {
+        "@id": "amsmb:cat_DonacioEntreVius"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/844"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/832"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-21",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-21",
+      "amsmb:split": "train",
+      "amsmb:date": 1316,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-21",
+      "amsmb:notary": "Guillem de Vila",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/893"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/743"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F3-16",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F3-16",
+      "amsmb:split": "train",
+      "amsmb:date": 1499,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F3-16",
+      "amsmb:notary": "Joan Martínez de Sòria",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/824"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/735"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F3-28",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F3-28",
+      "amsmb:split": "train",
+      "amsmb:date": 1427,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F3-28",
+      "amsmb:notary": "Pere Tarafa",
+      "amsmb:type": {
+        "@id": "amsmb:cat_ApocaDotal"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/864"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/910"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F3-37",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F3-37",
+      "amsmb:split": "train",
+      "amsmb:date": 1312,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F3-37",
+      "amsmb:notary": "Pere Amorós",
+      "amsmb:type": {
+        "@id": "amsmb:cat_ComunitatDeBens"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/876"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/852"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F3-39",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F3-39",
+      "amsmb:split": "validation",
+      "amsmb:date": 1454,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F3-39",
+      "amsmb:notary": "Andreu Miquel",
+      "amsmb:type": {
+        "@id": "amsmb:cat_CapitolsMatrimonials"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/732"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/790"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F4-05",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F4-05",
+      "amsmb:split": "train",
+      "amsmb:date": 1310,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F4-05",
+      "amsmb:notary": "s.n.",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Donacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/899"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/724"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F2-09",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F2-09",
+      "amsmb:split": "train",
+      "amsmb:date": 1461,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F2-09",
+      "amsmb:notary": "s.n.",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/797"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/874"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-16",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-16",
+      "amsmb:split": "test",
+      "amsmb:date": 1307,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-16",
+      "amsmb:notary": "Bernat de Vilarúbia",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Dot"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/846"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/867"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-25",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-25",
+      "amsmb:split": "train",
+      "amsmb:date": 1447,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-25",
+      "amsmb:notary": "Pere Figuerola",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Jurament"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/773"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/865"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-32",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-32",
+      "amsmb:split": "train",
+      "amsmb:date": 1445,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-32",
+      "amsmb:notary": "Antoni Gomar",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Donacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/751"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/887"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-39",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-39",
+      "amsmb:split": "test",
+      "amsmb:date": 1442,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-39",
+      "amsmb:notary": "Pere Claver",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/829"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/807"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-69",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-69",
+      "amsmb:split": "validation",
+      "amsmb:date": 1311,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-69",
+      "amsmb:notary": "Ramon de Cros",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/847"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/888"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-71",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-71",
+      "amsmb:split": "test",
+      "amsmb:date": 1436,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-71",
+      "amsmb:notary": "Rafael de Bruguera",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/834"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/806"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-72",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-72",
+      "amsmb:split": "test",
+      "amsmb:date": 1434,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-72",
+      "amsmb:notary": "Gaspar Figuera",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/862"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/811"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C3-F6-04",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C3-F6-04",
+      "amsmb:split": "train",
+      "amsmb:date": 1424,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C3-F6-04",
+      "amsmb:notary": "Francesc de Casanoves",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Absolucio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F6",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/800"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/723"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-55-24",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-55-24",
+      "amsmb:split": "train",
+      "amsmb:date": 1403,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-55-24",
+      "amsmb:notary": "Berenguer Pedrosell",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Donacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "D1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/850"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/866"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-62-07",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-62-07",
+      "amsmb:split": "test",
+      "amsmb:date": 1415,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-62-07",
+      "amsmb:notary": "Tomàs Vives",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Confirmacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/868"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/734"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-70-02",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-70-02",
+      "amsmb:split": "test",
+      "amsmb:date": 1380,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-70-02",
+      "amsmb:notary": "Antoni Saplana",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/903"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/881"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-08",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-08",
+      "amsmb:split": "train",
+      "amsmb:date": 1209,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-08",
+      "amsmb:notary": "Arnau de Torre",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/843"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/787"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-20",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-20",
+      "amsmb:split": "train",
+      "amsmb:date": 1296,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-20",
+      "amsmb:notary": "Jaume de Malví",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Apoca"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/810"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/851"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-23",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-23",
+      "amsmb:split": "test",
+      "amsmb:date": 1264,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-23",
+      "amsmb:notary": "Mateu Llobet",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Donacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/890"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/728"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-26",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-26",
+      "amsmb:split": "train",
+      "amsmb:date": 1283,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-26",
+      "amsmb:notary": "Pere Marquès",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/750"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/767"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-31",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-31",
+      "amsmb:split": "train",
+      "amsmb:date": 1254,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-31",
+      "amsmb:notary": "Jaume de Port",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Definicio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/764"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/793"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-33",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-33",
+      "amsmb:split": "validation",
+      "amsmb:date": 1219,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-33",
+      "amsmb:notary": "Pere Dorca",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/777"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/796"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-40",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-40",
+      "amsmb:split": "train",
+      "amsmb:date": 1281,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-40",
+      "amsmb:notary": "Pere Marquès",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/818"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/891"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-45",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-45",
+      "amsmb:split": "test",
+      "amsmb:date": 1259,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-45",
+      "amsmb:notary": "Pere Marquès",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/907"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/731"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-46",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-46",
+      "amsmb:split": "validation",
+      "amsmb:date": 1277,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-46",
+      "amsmb:notary": "Miquel de Santiga",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Apoca"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/739"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/736"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-48",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-48",
+      "amsmb:split": "validation",
+      "amsmb:date": 1261,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-48",
+      "amsmb:notary": "Pere de Cardona",
+      "amsmb:type": {
+        "@id": "amsmb:cat_SentenciaArbitral"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/857"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/809"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-50",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-50",
+      "amsmb:split": "validation",
+      "amsmb:date": 1293,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-50",
+      "amsmb:notary": "Pere Ribalta",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/873"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/909"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-92-02",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-92-02",
+      "amsmb:split": "test",
+      "amsmb:date": 1327,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-92-02",
+      "amsmb:notary": "Pere de Torre",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/813"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/820"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-92-27",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-92-27",
+      "amsmb:split": "train",
+      "amsmb:date": 1316,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-92-27",
+      "amsmb:notary": "Berenguer de Vallseca",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/896"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/872"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_37-11-14",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_37-11-14",
+      "amsmb:split": "train",
+      "amsmb:date": 1473,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "37-11-14",
+      "amsmb:notary": "s.n.",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/897"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/911"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-03",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-03",
+      "amsmb:split": "train",
+      "amsmb:date": 1333,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-03",
+      "amsmb:notary": "Berenguer Simó",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/745"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/769"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-10",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-10",
+      "amsmb:split": "train",
+      "amsmb:date": 1276,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-10",
+      "amsmb:notary": "Pere de Roca",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/788"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/786"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-22",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-22",
+      "amsmb:split": "test",
+      "amsmb:date": 1321,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-22",
+      "amsmb:notary": "Jaume Net",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/854"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/830"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-24",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-24",
+      "amsmb:split": "test",
+      "amsmb:date": 1227,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-24",
+      "amsmb:notary": "Esteve, prevere",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/749"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/737"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-25",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-25",
+      "amsmb:split": "train",
+      "amsmb:date": 1295,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-25",
+      "amsmb:notary": "Pere de Noguera, prevere",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/741"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/803"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F2-26",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F2-26",
+      "amsmb:split": "train",
+      "amsmb:date": 1326,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F2-26",
+      "amsmb:notary": "Bartomeu Marc",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F2",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/849"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/842"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F4-06",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F4-06",
+      "amsmb:split": "train",
+      "amsmb:date": 1238,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F4-06",
+      "amsmb:notary": "Berenguer Jaume",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Dot"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/746"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/831"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F4-09",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F4-09",
+      "amsmb:split": "train",
+      "amsmb:date": 1246,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F4-09",
+      "amsmb:notary": "Guillem de Moneca",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Donacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/742"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/801"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-57",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-57",
+      "amsmb:split": "validation",
+      "amsmb:date": 1284,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-57",
+      "amsmb:notary": "s.n.",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/733"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/768"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-58",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-58",
+      "amsmb:split": "test",
+      "amsmb:date": 1318,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-58",
+      "amsmb:notary": "Ramon d'Avinyó",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Absolucio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/900"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/779"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-62",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-62",
+      "amsmb:split": "validation",
+      "amsmb:date": 1317,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-62",
+      "amsmb:notary": "Bernat de Pont",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Sentencia"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/858"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/869"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-73",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-73",
+      "amsmb:split": "train",
+      "amsmb:date": 1274,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-73",
+      "amsmb:notary": "s.n.",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/838"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/902"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-81",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-81",
+      "amsmb:split": "train",
+      "amsmb:date": 1323,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-81",
+      "amsmb:notary": "Guillem Coscoll",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/845"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/748"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-85",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-85",
+      "amsmb:split": "train",
+      "amsmb:date": 1274,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-85",
+      "amsmb:notary": "Pere Marquès",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/758"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/780"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F3-86",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F3-86",
+      "amsmb:split": "train",
+      "amsmb:date": 1235,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F3-86",
+      "amsmb:notary": "Pere de Bages",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/883"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/770"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-1-17",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-1-17",
+      "amsmb:split": "train",
+      "amsmb:date": 1235,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-1-7",
+      "amsmb:notary": "Pere de Bages",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C5",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/882"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/835"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-10-16",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-10-16",
+      "amsmb:split": "train",
+      "amsmb:date": 1240,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-10-16",
+      "amsmb:notary": "Pere de Bages",
+      "amsmb:type": {
+        "@id": "amsmb:cat_ApocaDotal"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/766"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/906"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-13-13",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-13-13",
+      "amsmb:split": "train",
+      "amsmb:date": 1295,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-13-13",
+      "amsmb:notary": "Pere Marc",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Inventari"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "D3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/825"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/774"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-15-27",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-15-27",
+      "amsmb:split": "train",
+      "amsmb:date": 1326,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-15-27",
+      "amsmb:notary": "Bernat de Vilarúbia",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Definicio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C7",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/895"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/892"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-19-06",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-19-06",
+      "amsmb:split": "train",
+      "amsmb:date": 1300,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-19-06",
+      "amsmb:notary": "Bonanat d'Esparreguera",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Testament"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "B7",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/861"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/875"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-20-04",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-20-04",
+      "amsmb:split": "train",
+      "amsmb:date": 1305,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-20-04",
+      "amsmb:notary": "Bernat de Vilarúbia",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "B13",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/776"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/827"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-3-100",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-3-100",
+      "amsmb:split": "test",
+      "amsmb:date": 1220,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-3-100",
+      "amsmb:notary": "Guillem Ferrer",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Testament"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C5",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/889"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/821"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-4-35",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-4-35",
+      "amsmb:split": "train",
+      "amsmb:date": 1320,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-4-35",
+      "amsmb:notary": "Francesc de Torre",
+      "amsmb:type": {
+        "@id": "amsmb:cat_ClausulaTestamentaria"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/860"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/904"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-42-32",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-42-32",
+      "amsmb:split": "train",
+      "amsmb:date": 1265,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-42-32",
+      "amsmb:notary": "Pere Marc",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Promesa"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C3",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/738"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/920"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-44-45",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-44-45",
+      "amsmb:split": "train",
+      "amsmb:date": 1255,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-44-45",
+      "amsmb:notary": "Pere de Terme",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Concordia"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/795"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/740"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-48-04",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-48-04",
+      "amsmb:split": "train",
+      "amsmb:date": 1437,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-48-04",
+      "amsmb:notary": "Pere Ponçgem",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Reconeixement"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/917"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/752"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-62-39",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-62-39",
+      "amsmb:split": "validation",
+      "amsmb:date": 1454,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-62-39",
+      "amsmb:notary": "Guillem Jordà",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/870"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/826"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-70-13",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-70-13",
+      "amsmb:split": "train",
+      "amsmb:date": 1355,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-70-13",
+      "amsmb:notary": "Pere Borrell",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/915"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/782"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-70-42",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-70-42",
+      "amsmb:split": "validation",
+      "amsmb:date": 1476,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-70-42",
+      "amsmb:notary": "Francesc Nicolau de Moles",
+      "amsmb:type": {
+        "@id": "amsmb:cat_ReduccioDeCens"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/886"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/877"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-70-49",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-70-49",
+      "amsmb:split": "train",
+      "amsmb:date": 1354,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-70-49",
+      "amsmb:notary": "Bernat de Torre",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/914"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/814"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-73-45",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-73-45",
+      "amsmb:split": "train",
+      "amsmb:date": 1440,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-73-45",
+      "amsmb:notary": "Pere Pau Pujades",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "B4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/721"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/778"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-78-49",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-78-49",
+      "amsmb:split": "train",
+      "amsmb:date": 1435,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-78-49",
+      "amsmb:notary": "Pere Soler",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "B5",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/722"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/747"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-80-19",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-80-19",
+      "amsmb:split": "train",
+      "amsmb:date": 1423,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-80-19",
+      "amsmb:notary": "Joan Franc",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A11",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/761"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/762"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-90-06",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-90-06",
+      "amsmb:split": "test",
+      "amsmb:date": 1261,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-90-06",
+      "amsmb:notary": "Pere de Cardona",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Concordia"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/799"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/798"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_11-1-14",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_11-1-14",
+      "amsmb:split": "train",
+      "amsmb:date": 1330,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "11-1-14",
+      "amsmb:notary": "Arnau [Delpàs]",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Poders"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "D1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/802"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/908"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_13-5-08",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_13-5-08",
+      "amsmb:split": "train",
+      "amsmb:date": 1232,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "13-5-08",
+      "amsmb:notary": "Berenguer de Clos",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Donacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A10",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/871"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/730"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_2-5-19",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_2-5-19",
+      "amsmb:split": "train",
+      "amsmb:date": 1250,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "2-5-19",
+      "amsmb:notary": "Pere Marquès",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Reconeixement"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A14",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/726"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/912"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_20-1-01",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_20-1-01",
+      "amsmb:split": "train",
+      "amsmb:date": 1290,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "20-1-01",
+      "amsmb:notary": "Miquel Rotllan",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "B11",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/755"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/833"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_22-1-24",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_22-1-24",
+      "amsmb:split": "validation",
+      "amsmb:date": 1285,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "22-1-24",
+      "amsmb:notary": "Ramon Alcem",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "B14",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/879"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/840"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_23-1-07",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_23-1-07",
+      "amsmb:split": "train",
+      "amsmb:date": 1301,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "23-1-07",
+      "amsmb:notary": "Berenguer de Terrassa",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Donacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "D4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/884"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/919"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_28-8-06",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_28-8-06",
+      "amsmb:split": "train",
+      "amsmb:date": 1275,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "28-8-06",
+      "amsmb:notary": "Salvador de Baiona",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "B7",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/760"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/771"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_7-4-31",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_7-4-31",
+      "amsmb:split": "test",
+      "amsmb:date": 1255,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "7-4-31",
+      "amsmb:notary": "Joan, sacerdot de Sarral",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Homenatge"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "E4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/918"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/753"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_7-5-18",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_7-5-18",
+      "amsmb:split": "train",
+      "amsmb:date": 1226,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "7-5-18",
+      "amsmb:notary": "Ramon d'Om",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "A7",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/856"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/757"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_7-7-34",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_7-7-34",
+      "amsmb:split": "test",
+      "amsmb:date": 1208,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "7-7-34",
+      "amsmb:notary": "Berenguer levita",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Establiment"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "D4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/805"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/729"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-F14-55",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-F14-55",
+      "amsmb:split": "validation",
+      "amsmb:date": 1215,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-F14-55",
+      "amsmb:notary": "Berenguer prevere",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Esponsalici"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F14",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/812"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/775"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C3-F7-32",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C3-F7-32",
+      "amsmb:split": "train",
+      "amsmb:date": 1280,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C3-F7-32",
+      "amsmb:notary": "Pere Marc",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Definicio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F7",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/916"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/725"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C3-F7-34",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C3-F7-34",
+      "amsmb:split": "validation",
+      "amsmb:date": 1271,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C3-F7-34",
+      "amsmb:notary": "Pere Marc",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Testament"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F7",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/815"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/913"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_1-92-38",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_1-92-38",
+      "amsmb:split": "validation",
+      "amsmb:date": 1349,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "1-92-38",
+      "amsmb:notary": "Jaume d'Argelaguer",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Venda"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "C1",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/727"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/905"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_27-1-07",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_27-1-07",
+      "amsmb:split": "train",
+      "amsmb:date": 1362,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "27-1-07",
+      "amsmb:notary": "Berenguer Vergós",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Testament"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "B12",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/804"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/863"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C1-D6-01",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C1-D6-01",
+      "amsmb:split": "test",
+      "amsmb:date": 1313,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C1-D6-01",
+      "amsmb:notary": "Jaume d'Avinyó",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Testament"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "D6",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/898"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/855"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C2-F4-61",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C2-F4-61",
+      "amsmb:split": "validation",
+      "amsmb:date": 1499,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C2-F4-61",
+      "amsmb:notary": "Pere Sabater",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Donacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F4",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/784"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/791"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C3-F14-20",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C3-F14-20",
+      "amsmb:split": "train",
+      "amsmb:date": 1374,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C3-F14-20",
+      "amsmb:notary": "Ramon Camat",
+      "amsmb:type": {
+        "@id": "amsmb:cat_Confirmacio"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F14",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/792"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/763"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    },
+    {
+      "@id": "amsmb:Charter_AMSMB_C4-F14-37",
+      "@type": "ddi-cdi:InstanceValue",
+      "ddi-cdi:content": "AMSMB_C4-F14-37",
+      "amsmb:split": "train",
+      "amsmb:date": 1486,
+      "amsmb:archive": {
+        "@id": "amsmb:cat_archive_AMSMB"
+      },
+      "amsmb:signature": "C4-F14-37",
+      "amsmb:notary": "Bartomeu Masons",
+      "amsmb:type": {
+        "@id": "amsmb:cat_InstitucioDAniversari"
+      },
+      "amsmb:material": {
+        "@id": "amsmb:cat_material_parchment"
+      },
+      "amsmb:folder": "F14",
+      "amsmb:hasPhysicalInstance": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/794"
+      },
+      "amsmb:hasLogicalAnnotation": {
+        "@id": "https://dataverse.bsc.es/api/access/datafile/878"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "amsmb:Step07_Transcription"
+      }
+    }
+  ]
+}
